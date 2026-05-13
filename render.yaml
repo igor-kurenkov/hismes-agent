@@ -1,0 +1,65 @@
+# Render Blueprint для Hismes Agent
+# ==================================
+# 
+# Использование:
+# 1. Создай приватный репозиторий hismes-memory
+# 2. Создай Fine-grained токен для hismes-memory
+# 3. Заполни GITHUB_TOKEN и другие секретные переменные
+#
+# ВАЖНО: Render автоматически устанавливает HERMES_HOME=/opt/render/project/data
+# Это их preset для persistent storage - мы его используем!
+# НЕ задавай HERMES_HOME в envVars - пусть Render управляет этим.
+
+services:
+  - type: web
+    name: hismes-agent
+    env: python
+    region: oregon
+    plan: free
+    branch: main
+    autoDeploy: true
+    buildCommand: pip install ddgs && pip install -e ".[messaging]"
+    startCommand: python run_hismes.py
+    
+    healthCheckPath: /
+    numInstances: 1
+    
+    envVars:
+      - key: PORT
+        value: "10000"
+      
+      - key: PYTHON_VERSION
+        value: "3.11"
+      
+      # HERMES_HOME устанавливается автоматически Render'ом!
+      # Значение: /opt/render/project/data (persistent disk)
+      # Если нужно переопределить - используй HISMES_DATA_DIR:
+      # - key: HISMES_DATA_DIR
+      #   value: "/custom/path"
+      
+      - key: SAVE_INTERVAL
+        value: "300"
+      
+      - key: AUTO_UPDATE_MODEL
+        value: "false"
+      
+      # === СЕКРЕТНЫЕ ПЕРЕМЕННЫЕ (заполни вручную) ===
+      
+      - key: GITHUB_TOKEN
+        sync: false
+        # Fine-grained токен для hismes-memory репозитория
+      
+      - key: GITHUB_USER
+        value: "igor-kurenkov"
+      
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      
+      - key: TELEGRAM_ALLOWED_USERS
+        sync: false
+      
+      - key: OPENROUTER_API_KEY
+        sync: false
+      
+      - key: HERMES_MODEL
+        value: "meta-llama/llama-3.3-70b-instruct:free"
