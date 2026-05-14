@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/Lifailon/openrouter-bot",
+    "name": "GitHub - Lifailon/openrouter-bot: This project allows to launch your",
+    "snippet": "This project allows you to launch your Telegram bot in a few minutes to communicate with free and paid AI models via OpenRouter, or local LLMs, for example, via ... Missing: self- hosted",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vxrl.medium.com/build-your-own-ai-powered-telegram-bot-with-python-aa4bb558122f",
+    "name": "Build Your Own AI-Powered Telegram Bot with Python | by VXRL",
+    "snippet": "A step-by-step guide to building a Telegram chatbot powered by any LLM — Ollama, OpenAI, Gemini, or OpenRouter. Research: {Alan Ho} ...",
+    "host_name": "vxrl.medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DD_8KYQnAqAs",
+    "name": "n8n For Beginners - Part 02 - Create a Free AI Chatbot  - YouTube",
+    "snippet": "n8n For Beginners - Part 02 - Create a Free AI Chatbot Using Telegram and OpenRouter in 10 Minutes! · Comments. Missing: assistant | Show results with: assistant",
+    "host_name": "www.youtube.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://n8n.io/workflows/12568-build-a-telegram-ai-assistant-with-memmachine-openai-and-voice-support",
+    "name": "Build a Telegram assistant with MemMachine and voice support - N8N",
+    "snippet": "Free · Business/Productivity 5 Jan 2026 · An AI assistant that NEVER forgets using MemMachine for persistent cross-session memory, with voice transcription support and productivity tools ...",
+    "host_name": "n8n.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://faun.pub/from-chat-app-to-ai-powerhouse-telegram-openclaw-151462ba0fc8",
+    "name": "From Chat App to AI Powerhouse: Telegram + OpenClaw",
+    "snippet": "OpenClaw is a self-hosted AI assistant that runs locally on your machine while connecting to messaging platforms like Telegram, WhatsApp, ...",
+    "host_name": "faun.pub",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/k_b_ffab23f94d5978f17ea53/i-built-a-self-hosted-telegram-ai-assistant-to-keep-my-gemini-api-key-private-its-now-open-source-50aj",
+    "name": "I built a self-hosted Telegram AI assistant to keep my Gemini API key",
+    "snippet": "It's a Telegram bot that offers two distinct paths: one for users who prioritize maximum privacy and another for those who value convenience.",
+    "host_name": "dev.to",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3D-iMnk14Hrdc",
+    "name": "How to Create a Telegram AI Chatbot with n8n - YouTube",
+    "snippet": "Build Your Own Telegram AI Agent Bot using n8n (No Coding / Low Code Guide!) Want to automate Telegram with AI? In this video, I'll show you ... Missing: OpenRouter | Show results with: OpenRouter",
+    "host_name": "www.youtube.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/ramesh-perumal-phd-16831223_steps-nanobot-nanobot-activity-7430252190490959872-vYZj",
+    "name": "Deploying Telegram Bot with Nanobot and OpenRouter - LinkedIn",
+    "snippet": "Excited about creating a Telegram Bot and deploying the chat app with OpenRouter's free models, orchestrated by Nanobot.",
+    "host_name": "www.linkedin.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://railway.com/deploy/self-host-openclaw",
+    "name": "Deploy OpenClaw | Personal AI Assistant - Railway",
+    "snippet": "OpenClaw is an open-source, self-hosted personal AI assistant that connects 20+ messaging platforms (WhatsApp, Telegram, Discord, etc.) to ...",
+    "host_name": "railway.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://levelup.gitconnected.com/building-a-personal-telegram-ai-assistant-in-an-afternoon-77c1bac99676",
+    "name": "Building a personal Telegram AI Assistant in an Afternoon",
+    "snippet": "We will build a fully self-hosted AI assistant. It will be able to work and do text-transformations on a history of messages, generate new text and most ...",
+    "host_name": "levelup.gitconnected.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

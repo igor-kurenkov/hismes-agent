@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://kiro.dev/pricing",
+    "name": "Pricing - Kiro",
+    "snippet": "Flexible pricing tiers for developers: Free tier with 50 credits, Pro at $20/month, Pro+ at $40/month, and Power at $200/month. Missing: cloud | Show results with: cloud",
+    "host_name": "kiro.dev",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kiro.dev/blog/introducing-kiro",
+    "name": "Introducing Kiro",
+    "snippet": "Kiro is built on Code OSS, so you can keep your VS Code settings and Open VSX compatible plugins while working with our IDE. You get the full AI ... Missing: cloud | Show results with: cloud",
+    "host_name": "kiro.dev",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kiro.dev",
+    "name": "Kiro: Agentic AI development from prototype to production",
+    "snippet": "Kiro helps you do your best work by bringing structure to AI coding with spec-driven development. Share download link. Watch Demo. Missing: tier | Show results with: tier",
+    "host_name": "kiro.dev",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://devbysatyam.medium.com/kiro-how-amazons-ai-ide-is-revolutionizing-software-development-in-2025-3543e5235860",
+    "name": "Kiro: How Amazon's AI IDE Is Revolutionizing Software",
+    "snippet": "In 2025, tools powered by artificial intelligence are everywhere. But Amazon's Kiro IDE stands out — bridging the gap between rapid prototyping ...",
+    "host_name": "devbysatyam.medium.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cnbc.com/2025/07/14/aws-launches-kiro-ai-coding-program.html",
+    "name": "Amazon jumps into AI vibe coding with preview of Kiro - CNBC",
+    "snippet": "Amazon's cloud unit said Monday that it has released a preview of Kiro, a program developers can use to write code with help from artificial intelligence.",
+    "host_name": "www.cnbc.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/publicsector/transform-devops-practice-with-kiro-ai-powered-agents",
+    "name": "Transform DevOps practice with Kiro AI-powered agents - AWS",
+    "snippet": "Learn how the Kiro command line interface (CLI) transforms DevOps automation with AI-powered agents that install, configure, and deploy ...",
+    "host_name": "aws.amazon.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://repost.aws/articles/AROjWKtr5RTjy6T2HbFJD_Mw/%F0%9F%91%BB-kiro-agentic-ai-ide-beyond-a-coding-assistant-full-stack-software-development-with-spec-driven-ai",
+    "name": "Kiro Agentic AI IDE: Beyond a Coding Assistant - Full Stack Software",
+    "snippet": "Kiro introduces a revolutionary spec-driven development methodology that transforms ideas into production ready systems with unprecedented clarity and speed. Missing: tier | Show results with: tier",
+    "host_name": "repost.aws",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.geekwire.com/2025/amazon-targets-vibe-coding-chaos-with-new-kiro-ai-software-development-tool",
+    "name": "Amazon targets vibe-coding chaos with new 'Kiro' AI software",
+    "snippet": "Kiro is free during its preview period. Ultimately, the company plans three pricing tiers: a free version with 50 agent interactions per ...",
+    "host_name": "www.geekwire.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/aws-builders/kiro-vs-cursor-how-amazons-ai-ide-is-redefining-developer-productivity-3eg8",
+    "name": "Kiro vs Cursor: How Amazon's AI IDE Is Redefining Developer",
+    "snippet": "Kiro is free (currently), but long-term pricing is unknown. Note: Kiro runs on Claude Sonnet 4.0 (not Amazon Q), and you don't need Q Pro to ...",
+    "host_name": "dev.to",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3333526/aws-launches-kiro-globally-structured-ai-coding-and-one-year-free-pro-credits-startups",
+    "name": "AWS launches Kiro globally with structured AI coding and one-year",
+    "snippet": "AWS launches Kiro globally with structured AI coding and one-year free Pro+ credits for startups · Property-Based Testing (PBT), which checks ...",
+    "host_name": "www.scmp.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

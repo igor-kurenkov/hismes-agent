@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://n8n.io/workflows/2897-use-openrouter-in-n8n-versions-less178",
+    "name": "Use OpenRouter in n8n versions <1.78 | n8n workflow template",
+    "snippet": "Free · Business/Productivity In version 1.78, n8n introduced a dedicated node to use the OpenRouter service, which lets you to use a lot of different LLM models and providers.",
+    "host_name": "n8n.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DF1psr8uFwUU",
+    "name": "Locally Host n8n AI Agents for FREE (step by step) - YouTube",
+    "snippet": "Self Hosted AI Starter Kit: https://github.com/n8n-io/self-hosted-ai-starter-kit Full courses + unlimited support: ... Missing: OpenRouter | Show results with: OpenRouter",
+    "host_name": "www.youtube.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://n8n.io/integrations/openrouter-chat-model",
+    "name": "OpenRouter Chat Model integrations | Workflow automation with n8n",
+    "snippet": "Free · Business/Productivity Automate AI workflows by integrating, training, and deploying models across various platforms. Create adaptable and scalable workflows between OpenRouter Chat ...",
+    "host_name": "n8n.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/n8n/comments/1oc8rd7/is_there_a_way_to_have_n8n_ai_builder_on_a",
+    "name": "Is there a way to have N8N AI builder on a self-hosted instance?",
+    "snippet": "I have an updated N8N installed on digital ocean but it doesn't have the AI builder. Is there a way to make it pop and connect it to Claude ... AI agent builder for self hosted users : r/n8n - Reddit How can I run n8n workflows locally for free on Windows ... - Reddit More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://itnext.io/free-self-host-ai-agent-workflows-with-n8n-and-cloudflare-tunnel-fddb9ae6282e",
+    "name": "Free Self-Host AI Agent Workflows with n8n and Cloudflare Tunnel",
+    "snippet": "In this guide, I'll walk you through a free and secure way to self-host n8n — a powerful workflow automation tool — using Docker and Cloudflare ...",
+    "host_name": "itnext.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DbjiHTeunHRw",
+    "name": "Build Your First FREE AI Workflow in 10 Minutes (n8n +  - YouTube",
+    "snippet": "In this tutorial, I'll show you exactly how to set up your very own AI Workflow for FREE using n8n hosted on Hostinger. Missing: self- OpenRouter",
+    "host_name": "www.youtube.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.n8n.io/hosting/starter-kits/ai-starter-kit",
+    "name": "Self-hosted AI Starter Kit - n8n Docs",
+    "snippet": "Use n8n's curated self-hosted AI Starter Kit to get a list of AI elements to quickly start building AI workflows.",
+    "host_name": "docs.n8n.io",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://flyenv.com/guide/build-local-ai-workflow-by-n8n.html",
+    "name": "Build Self-Hosted AI Workflows with n8n & Ollama (No Docker",
+    "snippet": "This guide shows you how to create a fully self-hosted, offline-capable AI workflow using n8n (the open-source alternative to Zapier) and Ollama (local LLM ...",
+    "host_name": "flyenv.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pinggy.io/blog/self_host_ai_agents_using_n8n_and_pinggy",
+    "name": "Self-Host AI Agents Using n8n and Pinggy",
+    "snippet": "This comprehensive guide will walk you through setting up the n8n Self-hosted AI Starter Kit and exposing it securely online using Pinggy.",
+    "host_name": "pinggy.io",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3Dpf_T6y8Jwgk",
+    "name": "Self-Host n8n: Complete Setup Guide + Free AI Agent Workflow",
+    "snippet": "Self-Host n8n: Complete Setup Guide + Free AI Agent Workflow. 2.9 ... Go to channel Mustapha Salehi | AI Automation · I Built an AI Upwork ... Missing: OpenRouter | Show results with: OpenRouter",
+    "host_name": "www.youtube.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

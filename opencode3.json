@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://morphllm.com/ai-coding-agent",
+    "name": "We Tested 15 AI Coding Agents (2026). Only 3 Changed How",
+    "snippet": "1 Mar 2026 — The honest limitation: multi-file editing is less reliable than Cursor , and agent mode is still basic compared to Claude Code or Codex CLI. Read more",
+    "host_name": "morphllm.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p698cb/what_coding_agent_have_you_actually_settled_on",
+    "name": "what coding agent have you actually settled on?",
+    "snippet": "right now i mostly stick to cursor as my IDE and use claude code when I need something heavier. i still rotate a couple of quieter tools too. Read more",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@amirilovic/ai-coding-tools-what-works-and-what-doesnt-for-me-56be3d3c1018",
+    "name": "AI Coding Tools: What Works (and What Doesn't) for Me",
+    "snippet": "From VS Code with Copilot to Cursor , Windsurf, and newer open-source projects like Cline and Roo Code , this category puts AI directly where ... Read more",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/thescholarbaniya_claude-vs-cursor-vs-github-vs-openai-ive-activity-7430106391723376640-UkJi",
+    "name": "Comparing Claude, Cursor, Github Copilot, and OpenAI for",
+    "snippet": "And in the last 4 months, I tested major coding agents , from open source options like Open Code , Cline , to paid options like Cursor . Let ... Read more",
+    "host_name": "www.linkedin.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sourceforge.net/software/compare/Cline-AI-vs-opencode",
+    "name": "Cline vs. OpenCode Comparison",
+    "snippet": "Compare Cline vs. OpenCode using this comparison chart. Compare price, features, and reviews of the software side-by-side to make the best choice for your ...\nCompare Cline vs. OpenCode using this comparison chart. Compare price, features, and reviews of the software side-by-side to make the best choice for your business.",
+    "host_name": "sourceforge.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.keywordsai.co/market-map/compare/cline-vs-open-code",
+    "name": "Cline vs Open Code | Coding Agents Comparison | Keywords AI",
+    "snippet": "Cursor provides the deepest codebase-aware chat experience . Claude Code excels at autonomous multi-file tasks from the terminal. Many developers use multiple ... Read more\nCompare Cline and Open Code side by side . See how these Coding Agents tools stack up against each other.",
+    "host_name": "www.keywordsai.co",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/logiccore-digital_ai-coding-ides-in-2025-complete-comparison-activity-7415185636607053826-TEBe",
+    "name": "AI Coding Tools Comparison: Cursor, GitHub Copilot, Cline",
+    "snippet": "Claude Opus 46 Lands in GitHub Copilot — A Major Upgrade That Could Reshape AI Coding Introduction: A New Powerhouse Model Enters Copilot GitHub ... Read more",
+    "host_name": "www.linkedin.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qd86ex/which_is_relatively_more_userfriendly_cline_or",
+    "name": "Which is relatively more user-friendly, cline or opencode",
+    "snippet": "Some of the differences: opencode is better for parallel execution or anything subagent related (tho subagents can be used with Kilo code, which ... Read more",
+    "host_name": "www.reddit.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://artificialanalysis.ai/insights/coding-agents-comparison",
+    "name": "Coding Agents Comparison",
+    "snippet": "Comprehensive comparison of AI coding agents including Cursor, GitHub Copilot, Cline, Continue, and more. Compare IDE extensions, dedicated IDEs, CLI tools, ...",
+    "host_name": "artificialanalysis.ai",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/serenitiesai/cline-vs-cursor-2026-open-source-vs-proprietary-ai-coding-2aen",
+    "name": "Cline vs Cursor 2026: Open Source vs Proprietary AI Coding",
+    "snippet": "Which one deserves a spot in your workflow? Let's break it down. TL;DR — Cline vs Cursor at a Glance ... Quick verdict: Choose Cline if you value open source, model flexibility, and cost transparency. Choose Cursor if you want tab completions, background agents, and a seamless all-in-one experience. Many developers use both. What Is Cline?",
+    "host_name": "dev.to",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

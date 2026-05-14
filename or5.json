@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://medium.com/four-nine-digital/free-ai-coding-assistant-setup-up-roo-code-with-free-llm-models-04beca21793d",
+    "name": "Setup Roo Code with Free LLM Models",
+    "snippet": "We will walk you through how to set up Roo Code using LLMs from OpenRouter, and Google AI Studio so you can harness AI-powered development at no cost.",
+    "host_name": "medium.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Mcq3r1EPZ-4",
+    "name": "Installing Roo Code in VS Code | Quick Setup Tutorial - YouTube",
+    "snippet": "In this quick video tutorial, you'll learn how to install Roo Code, the AI-powered coding assistant, directly within Visual Studio Code.",
+    "host_name": "www.youtube.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://roocode.com",
+    "name": "Roo Code – The AI dev team that gets things done",
+    "snippet": "Roo Code is an open-source, AI-powered coding assistant that runs in VS Code. It goes beyond simple autocompletion by reading and writing across multiple files, ...",
+    "host_name": "roocode.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hRxjMTyB-GA",
+    "name": "Your Ultimate AI Coding Agent: Roo Code + Visual Studio Code",
+    "snippet": "This video walks through the basics of Roo Code, an AI-powered development extension that helps you design and build applications ...",
+    "host_name": "www.youtube.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1jrp1tj/a_simple_guide_to_setting_up_gemini_25_pro_free",
+    "name": "A simple guide to setting up Gemini 2.5 Pro, free, without running into",
+    "snippet": "In VSCode or Cursor, navigate to the extensions marketplace (Shift + Cmd + X on Mac), search for and install \"Roo Code\" (or your preferred tool ... My $0 Roo Code setup for the best results : r/RooCode - Reddit Agent Skills have arrived in Roo Code | Roo Code 3.38.0 : r/RooCode More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/livecodelife/roo-code-workflow-build-a-free-always-on-llm-powered-dev-assistant-5692",
+    "name": "Roo Code Workflow: Build a Free, Always-On LLM",
+    "snippet": "VS Code + Roo Code extension; A free Google AI Studio API key for Gemini; A free OpenRouter API key (Buy $10 of credits for 1,000 free calls/day).",
+    "host_name": "dev.to",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "name": "Roo-Code - AI agents in your code editor",
+    "snippet": "Local Setup & Development   Press F5 (or go to Run → Start Debugging) in VSCode. This will open a new VSCode window with the Roo Code extension running. Changes ...",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://brightdata.com/blog/ai/roo-code-with-web-mcp",
+    "name": "Connect Roo Code to Bright Data Web MCP in VS Code",
+    "snippet": "Learn how to integrate Roo Code with Bright Data's Web MCP server in Visual Studio Code to build an AI coding agent with real-time web data access.",
+    "host_name": "brightdata.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://maze-runner.medium.com/stop-burning-money-on-cusrsor-copilot-pro-zed-windsurf-use-roocode-openrouter-with-deepseek-r1-2e562545b715",
+    "name": "Stop Burning Money on Cusrsor/Copilot Pro/Zed/Windsurf",
+    "snippet": "By plugging RooCode (a free, open-source VSCode AI agent) into OpenRouter's free DeepSeek models, I now get GPT–4–caliber help without spending a dime.",
+    "host_name": "maze-runner.medium.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/works-with-openrouter/roo-code",
+    "name": "Roo Code with OpenRouter",
+    "snippet": "Use Roo Code with OpenRouter to access hundreds of AI models. An AI-powered autonomous coding agent that lives in your editor. Missing: extension free",
+    "host_name": "openrouter.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

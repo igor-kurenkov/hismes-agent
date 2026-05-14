@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://windsurf.com",
+    "name": "Windsurf - The best AI for Coding",
+    "snippet": "A powerful, seamless, and collaborative flow. It is the most powerful way to code with AI. Cascade, an agent that codes, fixes and thinks 10 steps ahead.",
+    "host_name": "windsurf.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://windsurf.com/pricing",
+    "name": "Pricing - Windsurf",
+    "snippet": "Windsurf is free forever for individuals. Teams can level up with our enterprise offering for enhanced personalization and flexible deployments.",
+    "host_name": "windsurf.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://windsurf.com/cascade",
+    "name": "Cascade | Windsurf",
+    "snippet": "Cascade is the AI code platform that does multi-step code edits. Windsurf is the world's most advanced AI coding assistant for developers and enterprises.",
+    "host_name": "windsurf.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.deployhq.com/guides/windsurf",
+    "name": "Windsurf IDE Guide: Cascade Agent, Setup & Deployment | DeployHQ",
+    "snippet": "Learn how to use Windsurf IDE with its Cascade AI agent for multi-file coding, project rules, and automated deployments via DeployHQ.",
+    "host_name": "www.deployhq.com",
+    "rank": 3,
+    "date": "Feb 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://windsurf.com/editor",
+    "name": "Windsurf Editor",
+    "snippet": "Tomorrow's editor, today. Windsurf Editor is the first AI agent-powered IDE that keeps developers in the flow. Available today on Mac, Windows, and Linux.",
+    "host_name": "windsurf.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mintmcp.com/blog/windsurf-security",
+    "name": "Windsurf security: how to use AI coding safely | MintMCP Blog",
+    "snippet": "Windsurf's Cascade agent gives developers autonomous code generation across multiple files, command execution, and agentic workflows—but ...",
+    "host_name": "www.mintmcp.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/tutorial/windsurf-ai-agentic-code-editor",
+    "name": "Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases | DataCamp",
+    "snippet": "Explore the AI-powered IDE with features like Cascade, Supercomplete, and Memories, designed to boost developer productivity using the AI flow.",
+    "host_name": "www.datacamp.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@matthewtanner91/best-ai-coding-tools-of-2025-what-tools-should-you-use-6456a720ea23",
+    "name": "Best AI Coding Tools of 2025: What Tools Should You Use? | by Matt Tanner - Medium",
+    "snippet": "The heart of Windsurf is its Cascade agent — an AI system that doesn't just respond to prompts but actively manages workflows. You might ask ...",
+    "host_name": "medium.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://windsurf.com/blog/pricing-windsurf",
+    "name": "Plans and Pricing Updates - Windsurf",
+    "snippet": "We are changing the pro tier to be $15/mo, but instead of 1000 steps, users will get access to 2000 steps - 500 User Prompt credits and 1500 Flow Action ... Missing: agent cloud",
+    "host_name": "windsurf.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.blott.com/blog/post/cursor-vs-windsurf-which-code-editor-fits-your-workflow",
+    "name": "Cursor vs Windsurf: Which Code Editor Fits Your Workflow? [2025] - Blott",
+    "snippet": "Windsurf's Cascade feature brings a new write-vs-chat toggle that lets developers switch between code generation and general AI assistance ...",
+    "host_name": "www.blott.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://opencode.ai",
+    "name": "OpenCode | The open source AI coding agent",
+    "snippet": "OpenCode is an open source agent that helps you write code in your terminal , IDE, or desktop. [*]. LSP enabled Automatically loads the right LSPs for the LLM.\nThe open source AI coding agent. Free models included or connect any model from any provider, including Claude, GPT, Gemini and more.\nWhat is OpenCode? OpenCode is an open source agent that helps you write code in your terminal, IDE, or desktop.",
+    "host_name": "opencode.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/docs",
+    "name": "Intro | AI coding agent built for the terminal",
+    "snippet": "OpenCode is an open source AI coding agent . It's available as a terminal -based interface, desktop app, or IDE extension. OpenCode TUI with the opencode ...\nOpenCode is an open source AI coding agent . It's available as a terminal-based interface, desktop app, or IDE extension. OpenCode TUI with the opencode ...",
+    "host_name": "opencode.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/opencode-ai/opencode",
+    "name": "opencode-ai/opencode: A powerful AI coding agent. Built",
+    "snippet": "Sep 18, 2568 BE — Use at your own risk. A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal .\n18 Sept 2025 — A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal .",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/download",
+    "name": "Download OpenCode",
+    "snippet": "Docs · Changelog.\nmacOS (Apple Silicon) · macOS (Intel) · Windows (x64) · Linux (.deb) · Linux (.rpm).",
+    "host_name": "opencode.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/docs/ecosystem",
+    "name": "Ecosystem",
+    "snippet": "Neovim frontend for opencode - a terminal-based AI coding agent. ai-sdk-provider-opencode-sdk, Vercel AI SDK provider for using OpenCode via @opencode-ai/sdk.",
+    "host_name": "opencode.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@ramunarasinga/opencode-an-ai-coding-agent-built-for-the-terminal-6b973403aea9",
+    "name": "Opencode, an AI coding agent, built for the terminal.",
+    "snippet": "In this article, we review Opencode, an AI coding agent, built for the terminal . We will look at: What is Opencode? Getting started.\nOpencode is the AI coding agent built for the terminal . It has the following features: Native TUI: A responsive, native, themeable terminal UI ...",
+    "host_name": "medium.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/anomalyco/opencode",
+    "name": "anomalyco/opencode: The open source coding agent.",
+    "snippet": "OpenCode is also available as a desktop application. Download directly from the releases page or opencode . ai /download. Platform, Download. macOS (Apple Silicon) ...\nOpenCode is also available as a desktop application. Download directly from the releases page or opencode.ai/download . Platform, Download. macOS (Apple Silicon) ...\nAlthough we recommend the models we provide through OpenCode Zen, OpenCode can be used with Claude, OpenAI, Google, or even local models. As models evolve, the gaps between them will close and pricing will drop, so being provider-agnostic is important.",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/docs/providers",
+    "name": "Providers",
+    "snippet": "OpenCode uses the AI SDK and Models.dev to support 75+ LLM providers and it supports running local models. To add a provider you need to:.",
+    "host_name": "opencode.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/docs/agents",
+    "name": "Agents",
+    "snippet": "Agents are specialized AI assistants that can be configured for specific tasks and workflows. They allow you to create focused tools with custom prompts, models ...",
+    "host_name": "opencode.ai",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://open-code.ai/en",
+    "name": "OpenCode Docs: Free Open-Source AI Coding Agent (75+ LLM",
+    "snippet": "Welcome to OpenCode documentation! OpenCode is an open-source AI coding assistant that provides intelligent code completion, code generation, and conversational programming experience.",
+    "host_name": "open-code.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

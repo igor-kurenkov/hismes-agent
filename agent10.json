@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.reddit.com/r/OpenWebUI/comments/1jyjiux/hardware_requirements_for_deploying_open_webui",
+    "name": "Hardware Requirements for Deploying Open WebUI",
+    "snippet": "So far, I have tested without problems a machine with 3 vCPUs and 6 GB of RAM with three users. For those who have already deployed this ...",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/community-scripts/ProxmoxVE/discussions/4505",
+    "name": "Open WebUI minimum requirements #4505",
+    "snippet": "30 May 2025 — I asked ChatGPT and it told me that 300–400 MB for disk, 300–500 MB RAM and 1 CPU is sufficient for multiple simultaneous users as it is a lightweight web ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://railway.com/deploy/ollama-openwebui-or-self-host-your-own-c",
+    "name": "Deploy Ollama + OpenWebUI",
+    "snippet": "5 Nov 2025 — ⚙️ System Requirements ; RAM , 4 GB (small models), Models like Llama 3 (8B) may need 8–16 GB or more. ; Disk / Volume, 10 GB+, Model weights are ...",
+    "host_name": "railway.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.openwebui.com/troubleshooting/performance",
+    "name": "Optimization, Performance & RAM Usage",
+    "snippet": "This guide provides a comprehensive overview of strategies to optimize Open WebUI . Your ideal configuration depends heavily on your specific deployment goals.\nThis guide provides a comprehensive overview of strategies to optimize Open WebUI. Your ideal configuration depends heavily on your specific deployment goals. Consider which of these scenarios describes you best:",
+    "host_name": "docs.openwebui.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.cloudron.io/topic/13202/real-world-minimum-server-specs-for-openwebui",
+    "name": "Real-world minimum server specs for OpenWebUI",
+    "snippet": "29 Jan 2025 — OpenWebUI on Cloudron out of the box is running with CPU+RAM only (not GPU+VRAM). Even for tiny models, that's going to be very slow even with very fast CPUs.",
+    "host_name": "forum.cloudron.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ramnode.com/guides/openwebui",
+    "name": "Open WebUI Setup Guide on RamNode VPS",
+    "snippet": "Server Requirements . • RamNode VPS (2GB+ RAM recommended); • Ubuntu 20.04 ... # Lightweight models (good for 2-4GB RAM ) ollama pull llama2:7b ollama pull ...",
+    "host_name": "www.ramnode.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@hassan.tbt1989/build-a-rag-powered-llm-service-with-ollama-open-webui-a-step-by-step-guide-a688ec58ac97",
+    "name": "Build a RAG-Powered LLM Service with Ollama & Open",
+    "snippet": "In this tutorial, we will use Ollama as the LLM backend, integrating it with Open WebUI to create an interactive RAG system .",
+    "host_name": "medium.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.tauceti.blog/posts/turn-your-computer-into-ai-machine-install-open-webui",
+    "name": "Turn your computer into an AI machine - Install Open WebUI",
+    "snippet": "26 Nov 2024 — RAM: 32 or even 64 GByte RAM is definitely recommended; HDD: A fast disk like a SSD or NVMe with at least 200 GByte (AI models need lot of space).",
+    "host_name": "www.tauceti.blog",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://community.truescho.com/read-blog/4807_self-hosting-llms-with-open-webui-038-ollama-complete-guide-2025.html?lang=english",
+    "name": "Self-Hosting LLMs with Open WebUI & Ollama",
+    "snippet": "29 Oct 2025 — Hardware requirements by model size (Last checked: April 26, 2025 ). A significant development in 2025 is the improved support for AMD GPUs in ...",
+    "host_name": "community.truescho.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/open-webui/open-webui/discussions/736",
+    "name": "Minimum system requirements · open-webui open-webui  - GitHub",
+    "snippet": "For optimal performance with ollama and open-webui, consider a system with an Intel/AMD CPU supporting AVX512 or DDR5 for speed and efficiency in computation, at least 16GB of RAM, and around 50GB of available disk space.",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

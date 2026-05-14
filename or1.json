@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://marketplace.visualstudio.com/items?itemName=dengfy3.dengfy3",
+    "name": "Cline-for-llm - Visual Studio Marketplace",
+    "snippet": "Cline supports API providers like OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, GCP Vertex, and Cerebras. You can also ...",
+    "host_name": "marketplace.visualstudio.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cline.bot",
+    "name": "Cline - AI Coding, Open Source and Uncompromised",
+    "snippet": "Open-source AI coding agent with Plan/Act modes, MCP integration, and terminal-first workflows. Trusted by 5M+ developers worldwide.",
+    "host_name": "cline.bot",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@rohmanhakim/running-agentic-coding-for-free-my-openrouter-cline-setup-4d86ece7b6ab",
+    "name": "Running Agentic Coding for Free: My OpenRouter + Cline Setup - Medium",
+    "snippet": "Cline is a VS Code extension that turns your editor into an agentic coding environment. It connects to an LLM (via a provider like OpenRouter) ... Missing: custom 2025",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cline.bot/blog/top-9-cursor-alternatives-in-2025-best-open-source-ai-dev-tools-for-developers",
+    "name": "Top 9 Cursor Alternatives in 2025: Best Open Source AI Dev Tools for",
+    "snippet": "Cline: A Top Local-First Cursor Alternative · Direct client-side operation: Cline runs entirely on your machine. · Model-agnostic flexibility: ...",
+    "host_name": "cline.bot",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/cline/cline/issues/737",
+    "name": "Add ability to choose preferred provider on OpenRouter #737",
+    "snippet": "Cline currently lacks support for OpenRouter's custom routing feature, leading to inconsistent behavior when utilizing certain models.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LsC2WGoej4Y",
+    "name": "Cline 3.4 with Openrouter Free Alternative to Cursor AI Code Editor",
+    "snippet": "... vs v0.dev,ai editor github,cursor ai editor alternative microsoft,new gemini ai coder,cursor ai ide,claude sonnet artifacts,new ai editor,llm ... Missing: custom | Show results with: custom",
+    "host_name": "www.youtube.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/phsaurav/breaking-free-from-ai-subscriptions-cost-effective-all-in-one-solution-with-openrouter-3ce",
+    "name": "Breaking Free from AI Subscriptions: Cost-Effective All-in-One Solution",
+    "snippet": "If anyone into that they can use Cline which is more popular VSCode Plugin. Setup is very simple: Install the Extension. Setup the Continue ...",
+    "host_name": "dev.to",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/models",
+    "name": "Models - OpenRouter",
+    "snippet": "The Llama Nemotron Embed VL 1B V2 embedding model is optimized for multimodal question-answering retrieval. The model can embed 'documents' in the form of image ...",
+    "host_name": "openrouter.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/zaid-a-8ab711192_openrouter-activity-7391557203658309632-14bV",
+    "name": "How to Use OpenRouter in VS Code for Multi-Model AI Access - LinkedIn",
+    "snippet": "2️⃣ Install an extension: Open the VS Code marketplace and install a compatible tool like Cline or Roo Code. 3️⃣ Select the provider: In ...",
+    "host_name": "www.linkedin.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/four-nine-digital/free-ai-coding-assistant-setup-up-roo-code-with-free-llm-models-04beca21793d",
+    "name": "Free AI Coding Assistant: Setup Roo Code with Free LLM Models - Medium",
+    "snippet": "We will walk you through how to set up Roo Code using LLMs from OpenRouter, and Google AI Studio so you can harness AI-powered development at no cost.",
+    "host_name": "medium.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

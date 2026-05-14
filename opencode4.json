@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://opencode.ai/docs",
+    "name": "Intro | AI coding agent built for the terminal",
+    "snippet": "The easiest way to install OpenCode is through the install script. Terminal ... Run the /connect command in the TUI , select opencode, and head to opencode . ai /auth ... Read more",
+    "host_name": "opencode.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai",
+    "name": "OpenCode | The open source AI coding agent",
+    "snippet": "The open source AI coding agent. Free models included or connect any model from any provider, including Claude, GPT, Gemini and more. Read more",
+    "host_name": "opencode.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/docs/tui",
+    "name": "TUI",
+    "snippet": "OpenCode provides an interactive terminal interface or TUI for working on your projects with an LLM. Running OpenCode starts the TUI for the current directory. Read more\nTUI Using the OpenCode terminal user interface. OpenCode provides an interactive terminal interface or TUI for working on your projects with an LLM. Running OpenCode starts the TUI for the current directory.",
+    "host_name": "opencode.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/opencode-ai/opencode",
+    "name": "opencode-ai/opencode: A powerful AI coding agent. Built",
+    "snippet": "18 Sept 2025 — It provides a TUI ( Terminal User Interface) for interacting with various AI models to help with coding tasks, debugging, and more. For a ... Read more",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nxcode.io/resources/news/opencode-tutorial-2026",
+    "name": "OpenCode Tutorial 2026: Install & Setup After Anthropic",
+    "snippet": "28 Jan 2026 — Complete OpenCode tutorial for 2026. Step-by-step install guide, configure GPT-4/Gemini/Ollama after Anthropic block, tips and tricks, ...",
+    "host_name": "www.nxcode.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/docs/cli",
+    "name": "CLI",
+    "snippet": "OpenCode CLI options and commands. The OpenCode CLI by default starts the TUI when run without any arguments. Read more",
+    "host_name": "opencode.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencode.ai/docs/providers",
+    "name": "Providers",
+    "snippet": "If you are new, we recommend starting with OpenCode Zen. Run the /connect command in the TUI , select OpenCode Zen , and head to opencode . ai /auth. /connect. Read more",
+    "host_name": "opencode.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://help.apiyi.com/en/opencode-ai-coding-agent-beginner-guide-2026-en.html",
+    "name": "Master OpenCode in 5 Minutes: Complete Beginner Guide",
+    "snippet": "Step 1: Start OpenCode · Step 2: Connect to an AI Provider · Step 3: Initialize the Project. Read more",
+    "host_name": "help.apiyi.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/rosgluk/opencode-quickstart-install-configure-and-use-the-terminal-ai-coding-agent-4kcb",
+    "name": "OpenCode Quickstart: Install, Configure, and Use the Terminal",
+    "snippet": "OpenCode is an open source AI coding agent you can run in the terminal (TUI + CLI) with optional desktop and IDE surfaces. This is the OpenCode Quickstart: install, verify, connect a model/provider, and run real workflows (CLI + API).",
+    "host_name": "dev.to",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@rosgluk/opencode-quickstart-install-configure-and-use-the-terminal-ai-coding-agent-a4ac45b1fbad",
+    "name": "OpenCode Quickstart: Install, Configure, and Use the Terminal",
+    "snippet": "OpenCode is an open source AI coding agent you can run in the terminal (TUI + CLI) with optional desktop and IDE surfaces. This is the OpenCode Quickstart: install, verify, connect a...",
+    "host_name": "medium.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

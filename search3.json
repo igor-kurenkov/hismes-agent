@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://clawbot.ai",
+    "name": "clawbot - Personal AI Assistant",
+    "snippet": "Break free from cloud-dependent AI. clawbot is an open-source personal assistant that runs entirely on your infrastructure, executing real tasks while ...",
+    "host_name": "clawbot.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.chatprd.ai/how-i-ai/24-hours-with-clawdbot-moltbot-3-workflows-for-ai-agent",
+    "name": "How I AI: My 24 Hours with Clawdbot (aka Moltbot)—3 Workflows for a",
+    "snippet": "Clawdbot is pitched as an open-source AI agent that actually does things. It can run on a local machine or in the cloud, spin up sub-agents, and ...",
+    "host_name": "www.chatprd.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=a63dUwXUgDo",
+    "name": "How to Use & Set up ClawdBot (Openclaw) - YouTube",
+    "snippet": "... AI https://mikeyno-code.com/Skool-base44 ✓ Start Building Today: Join the BEST No Code Community https://mikeyno-code.com/Skool Stay ...",
+    "host_name": "www.youtube.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai",
+    "name": "Clawdbot with Docker Model Runner, a Private Personal AI Assistant",
+    "snippet": "Use Clawdbot + Docker Model Runner to run a private personal assistant on your hardware—fast setup, local data control, and predictable ...",
+    "host_name": "www.docker.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/modelmind/how-to-set-up-clawdbot-step-by-step-guide-to-setup-a-personal-bot-3e7957ed2975",
+    "name": "How to Set Up Openclaw (Previously Clawdbot / Moltbot) — Step by Step",
+    "snippet": "This guided setup is the recommended way to configure OpenClaw — it builds the basic config for you automatically. Step 3 — Start the Gateway.",
+    "host_name": "medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/sivarampg/clawdbot-the-ai-assistant-thats-breaking-the-internet-1a47",
+    "name": "Clawdbot: The AI Assistant That's Breaking the Internet - Dev.to",
+    "snippet": "What is Clawdbot? Clawdbot is an open-source, self-hosted personal AI assistant created by Peter Steinberger (also known as @steipete), ...",
+    "host_name": "dev.to",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openclaw.ai",
+    "name": "OpenClaw — Personal AI Assistant",
+    "snippet": "The AI that actually does things. Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat ...",
+    "host_name": "openclaw.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3DBpfB0ao50",
+    "name": "Clawdbot in Less Than 2 Minutes (FREE 24/7 HOSTING) - YouTube",
+    "snippet": "This is the fastest way to set up Clawdbot, the open-source AI agent that gives you full system access and connects to your favorite apps. Missing: development | Show results with: development",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent",
+    "name": "Introducing Moltworker: a self-hosted personal AI agent, minus the minis",
+    "snippet": "Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our ...",
+    "host_name": "blog.cloudflare.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://snyk.io/articles/clawdbot-ai-assistant",
+    "name": "Your Clawdbot (OpenClaw) AI Assistant Has Shell Access  - Snyk",
+    "snippet": "This architecture creates an incredibly powerful system, such as those that you see with coding agents and other agentic applications, but also ...",
+    "host_name": "snyk.io",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

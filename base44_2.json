@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://docs.base44.com/Integrations/AI-integrations",
+    "name": "AI Integrations in Base44",
+    "snippet": "AI Integrations in Base44 ... Connect your Base44 app to popular AI services like OpenAI, Claude, Groq, Mistral or any other AI platform that uses an API key.",
+    "host_name": "docs.base44.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zapier.com/apps/base44/integrations/telegram",
+    "name": "Base44 Telegram Integration - Quick Connect",
+    "snippet": "Integrate Base44 and Telegram in a few minutes . Quickly connect Base44 and Telegram with over 8000 apps on Zapier, the world's largest automation platform.",
+    "host_name": "zapier.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://base44.com",
+    "name": "Base44: Build Apps with AI in Minutes",
+    "snippet": "From idea to live app in minutes. Base44 gives you the tools to launch fully-functional apps - no code, no setup, no hassle.",
+    "host_name": "base44.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1s148pk/between_base44_and_cursor_you_really_can_build",
+    "name": "Between Base44 and Cursor you really can build almost",
+    "snippet": "OpenClaw with OpenRouter is a great combo. ExoClaw gives you a managed instance with Telegram built in if you dont want to deal with self- ...",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://feedback.base44.com/p/telegram-integration",
+    "name": "Telegram Integration",
+    "snippet": "Connect to the Telegram Bot API to create bots, send messages, manage channels, and automate interactions with users on the secure messaging platform. Please ...",
+    "host_name": "feedback.base44.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.base44.com/Building-your-app/AI-agents-for-apps",
+    "name": "Setting up an AI agent for your app",
+    "snippet": "You can enable agents for all new apps by default in your account settings in your workspace. When you chat with an AI agent , Base44 uses integration credits.",
+    "host_name": "docs.base44.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/freeblock_how-to-build-an-ai-agent-that-talks-to-customers-activity-7442597847923023872-Tyrb",
+    "name": "Building a Telegram AI Agent for Customer Support",
+    "snippet": "A real Telegram AI agent usually combines Telegram as the interface, backend logic, a language model, a knowledge base , CRM or helpdesk ...",
+    "host_name": "www.linkedin.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/vibecodinglife/posts/1971664096755451",
+    "name": "Free coding app for telegram bot integration?",
+    "snippet": "I tried Base44 , but it says I need to upgrade to the Builder+ plan to make the integration work. Any recommendations for free alternatives?",
+    "host_name": "www.facebook.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.base44.com/Getting-Started/superagent",
+    "name": "Building a Superagent - Base44 Support Documentation",
+    "snippet": "Build your own autonomous Superagent in Base44. A Superagent is a persistent AI assistant that connects to your tools, observes events, and takes action across your workspace.",
+    "host_name": "docs.base44.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/docs/guides/coding-agents/openclaw-integration",
+    "name": "Integration with OpenClaw | OpenRouter | OpenRouter",
+    "snippet": "OpenClaw (formerly Moltbot, formerly Clawdbot) is an open-source AI agent platform that brings conversational AI to multiple messaging channels including Telegram, Discord, Slack, Signal, iMessage, and WhatsApp.",
+    "host_name": "openrouter.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

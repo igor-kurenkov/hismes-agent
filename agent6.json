@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.facebook.com/groups/openclawusers/posts/672355185926758",
+    "name": "What specs are needed to run OpenCLaw? - Facebook",
+    "snippet": "RAM: 16 GB is comfortable. 8 GB can work if you keep skills light and avoid big concurrent jobs. Disk: SSD recommended, at least 20–40 GB free ... PicoClaw: AI built the code in hours, matching OpenClaw's core ... An ultra-light personal AI assistant, inspired by nanobot and rebuilt ... More results from www.facebook.com Missing: lightweight | Show results with: lightweight",
+    "host_name": "www.facebook.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://agentnativedev.medium.com/openclaw-variants-on-10-hardware-and-10mb-ram-1e1d96b1ddc0",
+    "name": "OpenClaw Variants on $10 Hardware and 10MB RAM - Agent Native",
+    "snippet": "Light-weight Variants of OpenClaw. There are three light-weight optimized variants of OpenClaw that use minimum ~10MB of RAM. Picoclaw; Zeroclaw ...",
+    "host_name": "agentnativedev.medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://skywork.ai/skypage/en/openclaw-system-requirements-ai-optimization/2037444615661686784",
+    "name": "Comprehensive Guide to OpenClaw System Requirements RAM",
+    "snippet": "For local models, an NVIDIA RTX GPU with at least 8.00GB VRAM is highly recommended. Hardware Optimization & FAQ Resolution Figure 7: Resolving ...",
+    "host_name": "skywork.ai",
+    "rank": 2,
+    "date": "Mar 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://circuitdigest.com/news/an-openclaw-alternative-built-to-run-within-10-mb-of-ram",
+    "name": "An OpenClaw Alternative Built to Run Within 10 MB of RAM",
+    "snippet": "According to the project documentation, PicoClaw is designed to run in under 10 MB of RAM, which makes it suitable for entry-level single-board ...",
+    "host_name": "circuitdigest.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/openclaw/comments/1r8xd00/anyone_tried_picoclaw_an_ai_assistant_that",
+    "name": "Anyone tried PicoClaw? An AI assistant that apparently runs on less",
+    "snippet": "Anyone tried PicoClaw? An AI assistant that apparently runs on less than $10 hardware · under 10MB RAM · around 1 second boot time · single binary. The PicoClaw Lightweight AI Agent Running on 10MB and ... - Reddit Running OpenClaw for AI-driven customer discovery on an 8GB laptop More results from www.reddit.com Missing: nanoClaw | Show results with: nanoClaw",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.elektroda.com/news/news4165069.html",
+    "name": "PicoClaw - ultra-light AI assistant running in < 10 MB RAM - Elektroda",
+    "snippet": "It uses less than 10 MB of RAM and boots in less than 1 second on a 0.6 GHz processor. The architecture supports RISC-V, ARM64, and x86, and it ... Missing: nanoClaw | Show results with: nanoClaw",
+    "host_name": "www.elektroda.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://acemagic.com/blogs/about-ace-mini-pc/best-mini-pc-for-openclaw%3Fsrsltid%3DAfmBOop4KC0yvGQ0euOTCYSr-_2dlpP8BGo-MmJCWO43pO8Y3J8sdke3",
+    "name": "Best Mini PC for OpenClaw: Hardware Requirements for Local AI",
+    "snippet": "Running multiple OpenClaw instances requires at least 32GB of RAM. Power users deploying 32B or 70B parameter models require high memory ...",
+    "host_name": "acemagic.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.threads.com/%40githubprojects/post/DU5C4B_lM_C/three-light-weight-optimized-variants-of-openclaw-that-eats-min-mb-of-ram",
+    "name": "Three light-weight optimized variants of Openclaw that eats min",
+    "snippet": "Github Projects (@githubprojects). 17 Replies. 40K Views. Three light-weight optimized variants of Openclaw that eats min 10MB of RAM 1. Missing: OpenRouter | Show results with: OpenRouter",
+    "host_name": "www.threads.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/sipeed/picoclaw/blob/main/README.md",
+    "name": "README.md - sipeed/picoclaw - GitHub",
+    "snippet": "NOTE: PicoClaw has recently merged many PRs. Recent builds may use 10-20MB RAM. Resource optimization is planned after feature stabilization. Missing: nanoClaw | Show results with: nanoClaw",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "Mar 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/curiouslearner_10-hardware-10mb-ram-1-second-boot-thats-activity-7428725859995508736-Da-l",
+    "name": "AI-Powered $10 AI Assistant: PicoClaw vs OpenClaw and NanoBot",
+    "snippet": "$10 hardware. 10MB RAM. 1 second boot. That's a full AI assistant. Just found PicoClaw. While everyone's running AI on $599 Mac Minis, ... Missing: nanoClaw lightweight OpenRouter",
+    "host_name": "www.linkedin.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://kilo.ai",
+    "name": "Kilo - Kilo: The Open Source AI Coding Agent for VS Code, JetBrains, and your CLI",
+    "snippet": "Build, ship, and iterate faster with Kilo, the most popular open source AI coding agent. Secure, local-first, 500+ models. Start faster today.",
+    "host_name": "kilo.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://app.kilo.ai/install",
+    "name": "Install - Kilo Code - Open source AI agent VS Code extension",
+    "snippet": "Seamlessly integrate Kilo Code into VS Code, JetBrains IDEs, and more for an enhanced coding experience. Install Extension. Command Line Tool.",
+    "host_name": "app.kilo.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code",
+    "name": "Kilo Code: AI Coding Agent, Copilot, and Autocomplete - Visual Studio Marketplace",
+    "snippet": "Extension for Visual Studio Code - Open Source AI coding agent that generates code from natural language, automates tasks, and runs terminal commands. Missing: editor | Show results with: editor",
+    "host_name": "marketplace.visualstudio.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "name": "Kilo-Org/kilocode - GitHub",
+    "snippet": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FzFeij4-ub8",
+    "name": "Code by the Kilo: The Ultimate VS Code AI Extension - YouTube",
+    "snippet": "AI coding tools have evolved dramatically, but most create buggy slop or force you out of your workflow. Kilo Code changes that by bringing ... Missing: editor autonomous",
+    "host_name": "www.youtube.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.producthunt.com/products/kilocode",
+    "name": "Kilo Code: OSS AI coding assistant for planning, building & fixing code | Product Hunt",
+    "snippet": "Build, ship, and iterate faster with the most popular Open Source Coding Agent. #1 on OpenRouter. 1M+ Kilo Coders. 20T+ tokens processed.",
+    "host_name": "www.producthunt.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tech-now.io/en/blogs/kilo-code-the-new-open-source-ai-coding-agent-for-vs-code",
+    "name": "Kilo Code: The New Open-Source AI Coding Agent for VS Code - TechNow",
+    "snippet": "Kilo Code is an open-source AI coding assistant for VS Code, offering flexible models, orchestration, and transparent pricing.",
+    "host_name": "tech-now.io",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nachoconesa.com/blog/kilo-code-agente-codigo?lang=en",
+    "name": "Kilo Code: The Open Source Coding Agent That Outperforms Copilot | Nacho Conesa Blog",
+    "snippet": "Unlike traditional code assistants that only suggest lines, Kilo Code acts as an autonomous agent: it can read your entire project, understand the context, ...",
+    "host_name": "nachoconesa.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://open-vsx.org/extension/kilocode/kilo-code/reviews",
+    "name": "Kilo Code: AI Coding Agent, Copilot, and Autocomplete - Open VSX Registry",
+    "snippet": "Open Source AI coding agent that generates code from natural language, automates tasks, and runs terminal commands. Features inline autocomplete, browser ...",
+    "host_name": "open-vsx.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/kilocode/comments/1k1r6e6/code_by_the_kilo_the_ultimate_vs_code_ai_extension",
+    "name": "Code by the Kilo: The Ultimate VS Code AI Extension : r/kilocode - Reddit",
+    "snippet": "In this demo, see how Kilo Code helps you write more code with less effort: ... As an open source superset of the best AI coding tools, Kilo Code ...",
+    "host_name": "www.reddit.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

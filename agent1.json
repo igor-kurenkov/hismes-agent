@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://openrouter.ai/openrouter/free",
+    "name": "Free Models Router - API Pricing & Providers",
+    "snippet": "1 Feb 2026 — OpenRouter supports reasoning-enabled models that can show their step-by-step thinking process. Use the reasoning parameter in your request to ... Read more",
+    "host_name": "openrouter.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@the-sreejith/building-ai-agents-from-scratch-using-python-and-openrouter-api-be767bc4b0bd",
+    "name": "Building AI Agents from scratch using Python and",
+    "snippet": "Multi-Agent Systems: Orchestrating AI Agents with A2A Protocol . A Deep Dive into Agent Architecture, Workflows, and Real-World Implementation. Read more",
+    "host_name": "medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai",
+    "name": "OpenRouter",
+    "snippet": "One API for Any Model. Access all major models through a single, unified interface . OpenAI SDK works out of the box. Read more",
+    "host_name": "openrouter.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://composio.dev/toolkits/openrouter",
+    "name": "Openrouter MCP Integration for AI Agents",
+    "snippet": "Securely connect your AI agents and chatbots (Claude, ChatGPT, Cursor, etc) with Openrouter MCP or direct API to run LLM queries, orchestrate multi-model ...",
+    "host_name": "composio.dev",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/collections/free-models",
+    "name": "Free AI Models on OpenRouter",
+    "snippet": "For the simplest way to get started, try openrouter/free , a router that automatically selects from available free models based on your request's requirements. Read more",
+    "host_name": "openrouter.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://spr.com/free-local-ai-agents-with-openrouter-ollama-and-crewai",
+    "name": "Creating Free, Local AI Agents with OpenRouter, Ollama, and",
+    "snippet": "16 Jul 2025 — Use this step-by-step guide on how to build a local AI agent using OpenRouter's free LLMs and Ollama for embeddings.",
+    "host_name": "spr.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.n8n.io/ai-agent-orchestration-frameworks",
+    "name": "AI Agent Orchestration Frameworks: Which One Works",
+    "snippet": "16 Oct 2025 — Discover AI agent orchestration frameworks like n8n, LangGraph, CrewAI that power scalable, multi-agent AI orchestration in 2025.",
+    "host_name": "blog.n8n.io",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://costgoat.com/pricing/openrouter-free-models",
+    "name": "OpenRouter Free Models: All 25 Listed (Mar 2026)",
+    "snippet": "2 days ago — All free AI models on OpenRouter — zero cost, no credit card. Compare context lengths, capabilities, and rate limits. Updated live.",
+    "host_name": "costgoat.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1il8b1i/my_guide_on_what_tools_to_use_to_build_ai_agents",
+    "name": "My guide on what tools to use to build AI agents (if you are",
+    "snippet": "In this simple guide im going to cut through all the hype and BS and get straight to the point. WHAT DO I USE TO BUILD AI AGENTS ! Read more",
+    "host_name": "www.reddit.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/%40rohmanhakim/running-agentic-coding-for-free-my-openrouter-cline-setup-4d86ece7b6ab",
+    "name": "Running Agentic Coding for Free: My OpenRouter + Cline Setup",
+    "snippet": "Just follow these steps and you're coding with an AI agent in minutes. Give it a shot while Step 3.5 Flash is free. And if you want to share ...",
+    "host_name": "medium.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

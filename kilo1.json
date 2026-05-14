@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://kilo.ai/pricing",
+    "name": "Transparent pricing - kilo.ai",
+    "snippet": "Pricing for Kilo Code, the open-source AI coding agent for VS Code, JetBrains and the CLI\nTransparent pricing. Start coding with AI for free. Add credits as you go — no subscription required. Power your AI usage with the Kilo Gateway.",
+    "host_name": "kilo.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "name": "GitHub - Kilo-Org/kilocode: Kilo is the all-in-one agentic",
+    "snippet": "Install the Kilo Code extension from the VS Code Marketplace. Create your account to access 500+ cutting-edge AI models including Gemini 3 Pro, Claude 4.5 Sonnet & Opus, and GPT-5 – with transparent pricing that matches provider rates exactly.",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kilo.surf/get-started",
+    "name": "Kilo Code - Open source AI agent VS Code extension",
+    "snippet": "Use Kilo in all popular IDEs (VS Code/JetBrains), CLI, Cloud, and App Builder Access 500+ AI models, including Claude Sonnet 4.5, GPT-5.2, Gemini 3, and hundreds more",
+    "host_name": "kilo.surf",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codnaut.com/en/tools/kilo-code",
+    "name": "Kilo Code - Open‑source AI coding agent | Codnaut",
+    "snippet": "Kilo offers VS Code and JetBrains extensions plus a CLI, connects to 500+ models through a usage‑based provider where API keys are optional, and supports credits that work across leading models like Gemini 3 Pro, Claude 4.5 Sonnet/Opus, and GPT‑5.",
+    "host_name": "codnaut.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.openaitoolshub.org/en/blog/kilo-code-review",
+    "name": "Kilo Code Review: Open-Source AI Coding Agent With Zero",
+    "snippet": "What Is Kilo Code? Kilo Code is an open-source AI coding agent that runs as an extension in VS Code and JetBrains IDEs, plus a standalone CLI tool called Kilo CLI. It was created by forking both Cline (the most popular open-source VS Code coding extension with over 5 million installs) and Roo Code, then merging their best features under a unified platform.",
+    "host_name": "www.openaitoolshub.org",
+    "rank": 4,
+    "date": "Mar 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://skywork.ai/blog/kilo-code-ai-review-2025-open-source-agentic-vs-copilot",
+    "name": "Kilo Code (Kilo AI) Review 2025: Agentic Coding, Privacy",
+    "snippet": "Hands-on Kilo Code (Kilo AI) review for 2025. Explore open-source agentic coding, flexible BYO/local models, privacy, cost control, VS Code/JetBrains setup, and Copilot comparisons.\nHands-on Kilo Code (Kilo AI) review for 2025. Explore open-source agentic coding, flexible BYO/local models, privacy, cost control, VS Code/JetBrains setup, ...",
+    "host_name": "skywork.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code",
+    "name": "Kilo Code: AI Coding Agent, Copilot, and Autocomplete",
+    "snippet": "Install the Kilo Code extension from the VS Code Marketplace. Create your account to access 500+ cutting-edge AI models including Gemini 3 Pro, Claude 4.5 Sonnet & Opus, and GPT-5 – with transparent pricing that matches provider rates exactly.\nKey Features. Code Generation: Kilo can generate code using natural language. Inline Autocomplete: Get intelligent code completions as you type, powered by AI.",
+    "host_name": "marketplace.visualstudio.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kilo.ai",
+    "name": "Kilo - Kilo: The Open Source AI Coding Agent for VS Code, JetBrains, and your CLI",
+    "snippet": "Build, ship, and iterate faster with Kilo, the most popular open source AI coding agent. Secure, local-first, 500+ models. Start faster today.",
+    "host_name": "kilo.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kilo.ai/open-source-models",
+    "name": "Open Source AI Coding Models | Free & Open Weight LLMs",
+    "snippet": "Kilo Code supports numerous Grok models from xAI, giving you access to powerful reasoning and coding capabilities. When xAI releases a new model, they open ...",
+    "host_name": "kilo.ai",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kilo.ai/models/z-ai-glm-4-7",
+    "name": "Z.ai: GLM 4.7 - AI Coding Model",
+    "snippet": "Dec 22, 2025 — Z.ai: GLM 4.7 by z-ai • Price: $0.30/1M tokens. GLM-4.7 is Z.ai's latest flagship model, featuring upgrades in two key areas: enhanced ...",
+    "host_name": "kilo.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

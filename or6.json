@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://openrouter.ai/models",
+    "name": "Models",
+    "snippet": "Gemini 3.1 Pro Preview is Google's frontier reasoning model, delivering enhanced software engineering performance, improved agentic reliability, and more ...",
+    "host_name": "openrouter.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/)",
+    "name": "Models",
+    "snippet": "Gemini 2.5 Flash Image Preview, a.k.a. \"Nano Banana,\" is a state of the art image generation model with contextual understanding. It is capable of image ...",
+    "host_name": "openrouter.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/models/?q=free",
+    "name": "Models: 'free'",
+    "snippet": "Gemma 3n models are optimized for low-resource deployment, offering 32K context length and strong multilingual and reasoning performance across common ...",
+    "host_name": "openrouter.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.teamday.ai/blog/top-ai-models-openrouter-2026",
+    "name": "Best AI Models for Chat & Agents: OpenRouter Ranked (February 2026)",
+    "snippet": "Live-tested 500+ OpenRouter models. Claude Sonnet 4.6, Gemini 3.1, DeepSeek V3.2, and free models ranked by cost, quality, and agent ...",
+    "host_name": "www.teamday.ai",
+    "rank": 3,
+    "date": "Feb 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/collections/programming",
+    "name": "Best AI Models for Coding - OpenRouter",
+    "snippet": "Compare the best AI models for coding on OpenRouter. Find top LLMs for code generation, debugging, AI coding assistants and agentic coding workflows. Missing: list | Show results with: list",
+    "host_name": "openrouter.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r6g14s/4_of_the_top_5_most_used_models_on_openrouter",
+    "name": "4 of the top 5 most used models on OpenRouter this week are  - Reddit",
+    "snippet": "Because OpenRouter is where people go for these models. If someone is paying for Claude , Gemini or GPT they predominantly have it either ... The Best Open Weights Coding Models of 2025 : r/LocalLLaMA The most used model on OpenRouter, by far, is Claude. It's ... More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mangomindbd.com/blog/openrouter-hidden-gems",
+    "name": "Best OpenRouter Models 2025: 5 Hidden Gems That Beat GPT-5.2 on",
+    "snippet": "5 OpenRouter Hidden Gems You Missed in 2025. We all know the big names: GPT-4o, Claude 3.5 Sonnet, and Gemini Pro. But the real magic happens ...",
+    "host_name": "www.mangomindbd.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.instagram.com/reel/DRv1vTlEV67/?hl=en",
+    "name": "Free AI coding tools tier list 2025 ranking: antigravity, trae  - Instagram",
+    "snippet": "... coding tools tier list 2025 ranking: antigravity, trae, opencode, openrouter, cursor, windsurf, gemini cli, amp, kiro, warp, qwen cli ...",
+    "host_name": "www.instagram.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/inmve/free-ai-coding",
+    "name": "AI coding tools that give free Claude Opus/Sonnet, GPT-5",
+    "snippet": "... Claude, Gemini models including GPT-5.1-Codex-Max; Note: Claude models removed from free tier ~June 2025; AI-powered code editor with autonomous coding ...",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai",
+    "name": "OpenRouter",
+    "snippet": "660.1B ; Trinity Large Preview. by arcee-ai · 553.2B ; Gemini 3 Pro Preview. by google · 127.3B.",
+    "host_name": "openrouter.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

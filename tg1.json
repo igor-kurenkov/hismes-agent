@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/open-webui/open-webui/discussions/14863",
+    "name": "Using open-webui as a backend to a bot #14863 - GitHub",
+    "snippet": "I am seeking feedback on how I'm using Open WebUI and its API as a backend for a Telegram bot. I want to ensure my approach aligns with the intended use of the ... open-webui built-in API quick usage guide - OpenAI compatible ... Tools Usage (Guide) · open-webui open-webui · Discussion #3134 More results from github.com",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/selfhosted/comments/1dtys4l/how_to_connect_telegram_bot_to_open_webui",
+    "name": "How to connect Telegram bot to Open WebUI : r/selfhosted - Reddit",
+    "snippet": "I'm currently working on a project where I need to integrate a Telegram bot with Open WebUI. I'm relatively new to this and could use some guidance on how to ... How to connect a Telegram bot? : r/OpenWebUI 如何將Telegram 機器人連接到Open WebUI : r/selfhosted More results from www.reddit.com Missing: 2025 | Show results with: 2025",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.endpointdev.com/blog/2025/12/telegram-bot-rag-pipeline",
+    "name": "Build a Smarter Telegram Bot: Integrating a RAG Pipeline for FAQ",
+    "snippet": "In this post, we will show you how to build an intelligent FAQ bot using Python and the Telegram Bot API. We'll go beyond simple commands by ...",
+    "host_name": "www.endpointdev.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DrbS-4Zd7DwY",
+    "name": "Open WebUI + N8N - FREE AI Setup Will Change Everything",
+    "snippet": "Go to channel Karam Hawash | AI Automation · Free TTS | STT Gemini n8n Telegram AI Agent (Full Tutorial 2025). Karam Hawash | AI Automation•3.5 ...",
+    "host_name": "www.youtube.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/%40calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f",
+    "name": "Step-by-Step guide to build a Telegram Chatbot with a simple",
+    "snippet": "End-to-end development of a very basic bot that opens a Web-App, allowing the user to enter info in a JavaScript environment and sending back the data to the ...",
+    "host_name": "medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/oobabooga/text-generation-webui/issues/444",
+    "name": "telegram integration · Issue #444 · oobabooga/text-generation-webui",
+    "snippet": "For those familiar with the telegram messaging app I think it would be cool idea to add telegram bot integration support, so that telegram app ...",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DmdMj2YGMcNo",
+    "name": "Open WebUI + Ollama Is AMAZING For AI Self-Hosting (RAG, API",
+    "snippet": "... 2025: https://email.bytegrad.com Email ... Use OpenClaw on VPS BEFORE Buying Mac Mini - Setup Tutorial (Clawdbot / Moltbot + Telegram).",
+    "host_name": "www.youtube.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.jiatool.com/posts/openwebui_install",
+    "name": "Open WebUI 使用Docker Compose 安裝，串接GitHub Models - IT 空間",
+    "snippet": "最美觀、功能齊全的LLM 聊天UI 開源軟體「Open WebUI」，教你使用Docker Compose 在本機安裝，並且透過GitHub Models、Gemini API 串接多種模型~",
+    "host_name": "blog.jiatool.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.openwebui.com/getting-started",
+    "name": "Getting Started | Open WebUI",
+    "snippet": "Welcome to the Open WebUI Documentation Hub! Below is a list of essential guides and resources to help you get started, manage, and develop with Open WebUI.",
+    "host_name": "docs.openwebui.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://brave.com/search/api/guides/use-with-open-webui",
+    "name": "How to use Brave Search with Open WebUI",
+    "snippet": "1. Install Open WebUI using Docker · 2. Access the WebUI in your browser. · 3. Sign-up and create a key for Brave Search API · 4. Add your API key ...",
+    "host_name": "brave.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

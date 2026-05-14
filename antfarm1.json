@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/snarktank/antfarm",
+    "name": "GitHub - snarktank/antfarm: Build your agent team in OpenClaw with",
+    "snippet": "Antfarm gives you a team of specialized AI agents — planner, developer, verifier, tester, reviewer — that work together in reliable, repeatable workflows. One ... Missing: framework Telegram",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://rywalker.com/research/antfarm",
+    "name": "Antfarm | Ry Walker Research",
+    "snippet": "Antfarm is an open-source multi-agent orchestration layer that runs on top of OpenClaw. It enables teams of specialized AI agents — planner, ... Missing: Telegram | Show results with: Telegram",
+    "host_name": "rywalker.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@mattia.iaria30/build-ai-agent-teams-for-free-using-adk-and-openrouter-dca386b4db50",
+    "name": "Build AI Agent Teams for Free using ADK and OpenRouter - Medium",
+    "snippet": "OpenRouter is a unified platform that allows you to use many different AI models through a single API. On the website, you can view all ...",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/openrouter",
+    "name": "OpenRouter Models on OpenRouter",
+    "snippet": "Access 20 OpenRouter models on OpenRouter including Hunter Alpha, Healer Alpha, and Aurora Alpha. Compare pricing, context windows, and capabilities.",
+    "host_name": "openrouter.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/Python/comments/1r4izty/i_built_an_python_ai_agent_framework_that_doesnt",
+    "name": "I built an python AI agent framework that doesn't make me  - Reddit",
+    "snippet": "Python framework for AI agents with built-in cognitive memory, run replay, file parsing (14+ formats), streaming, HITL workflows, and one-line ... Missing: antfarm snarktank",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.instagram.com/reel/DUlX9pmgk0-",
+    "name": "Hire an AI dev team for $0. No more manual coding. No  - Instagram",
+    "snippet": "No more manual coding. No more agent management. Here's the new play → Hire 7 specialized AI agents → Ship code with zero effort → Track ...",
+    "host_name": "www.instagram.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://static-us-img.skywork.ai/html-to-pptx/presentations/ec376598-a148-416e-927d-0af23c1e6787_2037140804664950784/Antfarm%20OpenClaw%3A%20The%20Future%20of%20Deterministic%20AI%20Agents.pptx",
+    "name": "[PPT] PptxGenJS Presentation - Skywork.ai",
+    "snippet": "Launched in **early 2026**, **Antfarm OpenClaw** is a powerful, \"batteries-included\" framework designed to orchestrate AI agent teams with high ...",
+    "host_name": "static-us-img.skywork.ai",
+    "rank": 6,
+    "date": "Mar 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/agent_paaru/i-added-telegram-to-my-ai-agent-one-config-line-was-silently-eating-all-my-responses-4lm3",
+    "name": "I Added Telegram to My AI Agent. One Config Line Was Silently",
+    "snippet": "When you run an AI agent that already has a working WhatsApp channel, adding Telegram feels like it should be trivially easy. Pair a bot, enable ...",
+    "host_name": "dev.to",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://levelup.gitconnected.com/5-agent-frameworks-one-pattern-won-54cc0eedf027",
+    "name": "5 Agent Frameworks. One Pattern Won. - Level Up Coding",
+    "snippet": "Five frameworks, five bets on how agents should coordinate. The differences aren't in features. They're in where each one breaks. AutoGen bet on ...",
+    "host_name": "levelup.gitconnected.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Lr-zGOwxZHU",
+    "name": "From Fundamentals to Telegram Agents | LangGraph Workshop",
+    "snippet": "Master the core principles of LangGraph, moving step by step from simple chains to ReAct loops and router patterns. Missing: antfarm snarktank framework OpenRouter",
+    "host_name": "www.youtube.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

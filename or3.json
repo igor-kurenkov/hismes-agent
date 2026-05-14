@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://aider.chat/docs/llms/openrouter.html",
+    "name": "OpenRouter | aider",
+    "snippet": "Aider can connect to models provided by OpenRouter: You'll need an OpenRouter API key. First, install aider: python -m pip install aider-install aider-install. Missing: assistant 2025",
+    "host_name": "aider.chat",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/Aider-AI/aider",
+    "name": "Aider-AI/aider: aider is AI pair programming in your terminal - GitHub",
+    "snippet": "Speak with aider about your code! Request new features, test cases or bug fixes using your voice and let aider implement the changes. Linting & testing.",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/models",
+    "name": "Models - OpenRouter",
+    "snippet": "Kimi K2.5 is Moonshot AI's native multimodal model, delivering state-of-the-art visual coding capability and a self-directed agent swarm paradigm. Built on Kimi ...",
+    "host_name": "openrouter.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1jns43q/aider_v0800_is_out_with_easy_openrouter_onboarding",
+    "name": "Aider v0.80.0 is out with easy OpenRouter on-boarding : r/ChatGPTCoding - Reddit",
+    "snippet": "Aider will help you connect to OpenRouter using OAuth. Aider will automatically choose the best model for you, based on whether you have a free or paid ... Aider v0.78.0 is out : r/ChatGPTCoding Cursor vs Aider vs VSCode + Copilot: Which AI Coding Assistant is Best? More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aider.chat/docs/config/adv-model-settings.html",
+    "name": "Advanced model settings | aider",
+    "snippet": "Aider has a number of settings that control how it works with different models. These model settings are pre-configured for most popular models. Missing: assistant | Show results with: assistant",
+    "host_name": "aider.chat",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/works-with-openrouter/aider",
+    "name": "Aider with OpenRouter",
+    "snippet": "Aider supports OpenRouter as a provider, giving you access to hundreds of AI models through a single API key. OpenRouter handles model routing and fallbacks so ... Missing: assistant free 2025",
+    "host_name": "openrouter.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Lon0oRRqB6A",
+    "name": "The BEST AI Coding Assistants | July 2025 - YouTube",
+    "snippet": "This month I add in Aider, Codex CLI, Gemini CLI, OpenCode and others to the list of AI Coding Assistants that I test. And yes Claude Code ... Missing: OpenRouter setup",
+    "host_name": "www.youtube.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/stevengonsalvez/2025s-best-ai-coding-tools-real-cost-geeky-value-honest-comparison-4d63",
+    "name": "2025s Best AI Coding Tools: Real Cost, Geeky Value & Honest Comparison - Dev.to",
+    "snippet": "2025 guide to AI code assistants-Gemini, Copilot, Claude, Cursor, Aider, and more. In-depth review, honest pros/cons, real cost, ...",
+    "host_name": "dev.to",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://indico.cern.ch/event/1549643/contributions/6526193/attachments/3080669/5453463/20250604_HSF-AI-in-Terminal.pdf",
+    "name": "[PDF] AI Assistants in Terminal - CERN Indico",
+    "snippet": "What is Aider? Aider is AI pair programming in your terminal: ➢ Powerful AI Coding. ➢ Chat questions. ➢ File ...",
+    "host_name": "indico.cern.ch",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/four-nine-digital/free-ai-coding-assistant-setup-up-roo-code-with-free-llm-models-04beca21793d",
+    "name": "Free AI Coding Assistant: Setup Roo Code with Free LLM Models | by Rob Felix - Medium",
+    "snippet": "We will walk you through how to set up Roo Code using LLMs from OpenRouter, and Google AI Studio so you can harness AI-powered development at no cost. Missing: Aider | Show results with: Aider",
+    "host_name": "medium.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

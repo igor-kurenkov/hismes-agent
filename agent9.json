@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://forums.docker.com/t/good-requirements-for-docker-desktop-on-macosventura/134101",
+    "name": "Good Requirements for Docker Desktop on macOSVentura",
+    "snippet": "I have a MacBook with a simple Apple M1 and 16GB RAM and it is “more than enough” for me. Docker Desktop will run a vitual machine and you can ... Missing: Flowise lightweight",
+    "host_name": "forums.docker.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/FlowiseAI/Flowise/discussions/2895",
+    "name": "Has anyone successfully got Flowise to work on an ARM Mac? #2895",
+    "snippet": "I was able to install Flowise on an M2 mac using the docker compose instructions. All of this is running natively on ARM without emulation. Missing: system requirements RAM lightweight",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.flowiseai.com/getting-started",
+    "name": "Get Started | FlowiseAI - Flowise Docs",
+    "snippet": "In this video tutorial, Leon provides an introduction to Flowise and explains how to set it up on your local machine. Missing: RAM lightweight",
+    "host_name": "docs.flowiseai.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/docker/comments/e3nke7/hardware_requirements_for_docker_do_i_need_lots",
+    "name": "Hardware Requirements for Docker: Do I need lots of RAM? - Reddit",
+    "snippet": "16 GB is fine for Docker. If you want to run a bunch of containers at once you could run into issues. And since you're buying a MacBook, I can't ... Too heavy for MacBook Air 2018 8gb : r/docker - Reddit Can the MacBook Air M4 Handle Dev Work with Docker, Xcode, and ... More results from www.reddit.com Missing: Flowise | Show results with: Flowise",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hub.docker.com/r/flowiseai/flowise",
+    "name": "flowiseai/flowise - Docker Image",
+    "snippet": "Go to docker folder at the root of the project · Copy .env.example file, paste it into the same location, and rename to .env file ... Missing: requirements lightweight",
+    "host_name": "hub.docker.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com/item%3Fid%3D42210563",
+    "name": "What Is Your RAM Usage on macOS? Share Your Workflow and",
+    "snippet": "I regularly run Docker containers, VMs, IDEs, and two web browsers on both an Intel Mac Pro and an M3 Mac Pro. I believe they both have 16GB ... Missing: Flowise lightweight",
+    "host_name": "news.ycombinator.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.flowiseai.com/configuration/environment-variables",
+    "name": "Environment Variables | FlowiseAI - Flowise Docs",
+    "snippet": "Flowise support different environment variables to configure your instance. You can specify the following variables in the .env file inside packages/server ... Missing: system RAM lightweight MacBook",
+    "host_name": "docs.flowiseai.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/oben/apple-silicon-mac-m1m2-how-to-deal-with-slow-docker-performance-58n0",
+    "name": "How to deal with slow Docker performance on M1/M2 Mac?",
+    "snippet": "This topic is about my experience with slow Docker performance on an M1 Macbook Air and my way to deal with it. Missing: Flowise RAM lightweight",
+    "host_name": "dev.to",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/techtitansgroup/posts/1623450238982288",
+    "name": "Running large AI models on a laptop - Facebook",
+    "snippet": "A pure C and Metal inference engine that runs Qwen3.5-397B on a MacBook Pro with 48GB RAM. At 4.4 tokens per second. With tool calling. No ...",
+    "host_name": "www.facebook.com",
+    "rank": 8,
+    "date": "Mar 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DtD6fwQyUIJE",
+    "name": "Flowise AI Tutorial #1 - Introduction & Setup - YouTube",
+    "snippet": "flowise #flowiseai #langchain #openai Flowise is an Open Source tool for creating LangChain AI applications using a sleek and easy-to-use ... Missing: requirements RAM lightweight Docker",
+    "host_name": "www.youtube.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

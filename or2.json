@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://docs.continue.dev/customize/model-providers/top-level/openrouter",
+    "name": "How to Configure OpenRouter with Continue",
+    "snippet": "OpenRouter allows you configure provider preferences, model routing configuration, and more. You can set these via requestOptions . For example, to prevent ...",
+    "host_name": "docs.continue.dev",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/79801693/how-can-i-configure-a-custom-openai-compatible-model-in-continue-dev",
+    "name": "How can I configure a custom OpenAI-compatible model in Continue.dev? - Stack Overflow",
+    "snippet": "I'm trying to configure a Z.ai GLM model in the Continue.dev Visual Studio Code extension, but the model doesn't appear in the dropdown menu, ...",
+    "host_name": "stackoverflow.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.continue.dev/customize/model-providers/overview",
+    "name": "Model Providers Overview | Continue Docs",
+    "snippet": "Continue supports a wide range of AI model providers to power different features like chat, code editing, autocompletion, and embeddings.",
+    "host_name": "docs.continue.dev",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.continue.dev/customize/model-providers/top-level/openai",
+    "name": "How to Configure OpenAI Models with Continue",
+    "snippet": "If you are using an OpenAI API compatible providers, you can change the apiBase like this: YAML JSON (Deprecated). name: My Config version: 0.0.1 schema: v1 ...",
+    "host_name": "docs.continue.dev",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://continue.dev",
+    "name": "Continue.dev",
+    "snippet": "Run AI checks on every pull request. Write checks as markdown in your repo. Continue runs them as native GitHub status checks with suggested fixes when code ... Missing: OpenRouter | Show results with: OpenRouter",
+    "host_name": "continue.dev",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/allanninal/building-your-first-agentic-ai-workflow-with-openrouter-api-1fo6",
+    "name": "Building Your First Agentic AI Workflow with OpenRouter API - DEV Community",
+    "snippet": "This tutorial will guide you through building a complete agentic AI workflow using OpenRouter API, which gives you access to multiple AI models.",
+    "host_name": "dev.to",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/continuedev/continue/issues/5630",
+    "name": "correct provider field in continue config.json for VScode · Issue #5630 - GitHub",
+    "snippet": "The documentation in https://docs.continue.dev/customize/model-providers/inception says that correct value for \"provider\": \"inception\".",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zed.dev/docs/ai/llm-providers",
+    "name": "LLM Providers - Use Your Own API Keys in Zed",
+    "snippet": "Bring your own API keys to Zed. Set up Anthropic, OpenAI, Google AI, Ollama, DeepSeek, Mistral, OpenRouter, Vercel AI Gateway, and more.",
+    "host_name": "zed.dev",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/docs/quickstart",
+    "name": "OpenRouter Quickstart Guide | Developer Documentation",
+    "snippet": "OpenRouter provides a unified API that gives you access to hundreds of AI models through a single endpoint, while automatically handling fallbacks and ...",
+    "host_name": "openrouter.ai",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tO4pUbLMN1A",
+    "name": "Turbocharge Your Coding with OpenRouter.ai! - YouTube",
+    "snippet": "In this video, I'm sharing how to access hundreds of language models and integrate some into popular IDEs like VS Code. OpenRouter provides ... Missing: custom | Show results with: custom",
+    "host_name": "www.youtube.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://dify.ai",
+    "name": "Dify: Leading Agentic Workflow Builder",
+    "snippet": "Dify offers everything you need — agentic workflows, RAG pipelines, integrations, and observability — all in one place, putting AI power into your hands.",
+    "host_name": "dify.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://marketplace.dify.ai/plugin/langgenius/openrouter",
+    "name": "OpenRouter",
+    "snippet": "OpenRouter is a powerful platform that provides access to a diverse set of language models, including both commercial and open-source options.",
+    "host_name": "marketplace.dify.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://fast.io/resources/best-self-hosted-ai-agent-platforms",
+    "name": "8 Best Self-Hosted AI Agent Platforms for 2025",
+    "snippet": "Compare the top self - hosted AI agent frameworks including LangChain, Flowise, and Dify . Deploy private, secure agents on your own infrastructure.",
+    "host_name": "fast.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1r6dbz3/easy_opensource_platform_to_create_agents_for_web",
+    "name": "Easy open-source platform to create agents for web tasks?",
+    "snippet": "I want to create agents for long & recurring tasks, but mostly web related (e.g. reading certain websites/pages and process them with AI ), ...",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/langgenius/dify",
+    "name": "langgenius/dify: Production-ready platform for agentic",
+    "snippet": "It provides all the capabilities of the self-deployed version, and includes 200 free GPT-4 calls in the sandbox plan. Self - hosting Dify Community Edition",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://chatarmin.com/en/blog/free-ai-agents",
+    "name": "Free AI Agents: Open-Source & Free Tools 2026",
+    "snippet": "19 hours ago — Dify — Open-source platform purpose-built for AI agents and RAG applications. Self - hosted version is completely free . The strongest option when ...",
+    "host_name": "chatarmin.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dify.ai/blog/2025-dify-summer-highlights",
+    "name": "2025 Dify Summer Highlights - Dify Blog",
+    "snippet": "9 Sept 2025 — For self - hosted users, you'll need to register your own OAuth applications with third-party services and configure them in your Dify instance.",
+    "host_name": "dify.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://crazyrouter.com/en/blog/dify-ai-platform-complete-guide-2026",
+    "name": "Dify AI Platform Complete Guide: Build LLM Apps Without",
+    "snippet": "27 Feb 2026 — Self - hosting Dify is completely free with the open-source Community Edition: Cost: $0 (you pay for server hosting + AI model API calls); All ...",
+    "host_name": "crazyrouter.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://jimmysong.io/blog/open-source-ai-agent-workflow-comparison",
+    "name": "Open Source AI Agent Platform Comparison (2026): n8n, Dify,",
+    "snippet": "14 Aug 2025 — A practical 2026 comparison of open source AI Agent and workflow platforms including n8n, Dify , LangGraph, Coze, FastGPT, and RAGFlow, ...",
+    "host_name": "jimmysong.io",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nocodestartup.io/en/dify",
+    "name": "Dify - Build Powerful AI Agents with NoCode",
+    "snippet": "4 Nov 2025 — Build AI agents without code with Dify , a powerful and intuitive platform for custom intelligent solutions.",
+    "host_name": "nocodestartup.io",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://manus.im",
+    "name": "Manus: Hands On AI",
+    "snippet": "Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.",
+    "host_name": "manus.im",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://agent.minimax.io/assistant/manus-ai-agent",
+    "name": "Manus AI Agent | Powerful AI Agent Tools & Applications",
+    "snippet": "2 days ago — Autonomous Execution. Manus AI Agent executes in the cloud. Runs code, queries data, and integrates systems—autonomously completing tasks ...",
+    "host_name": "agent.minimax.io",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://manus.im/blog/best-ai-coding-assistant-tools",
+    "name": "Best 10 AI Tools for Coding: A Developer's Ultimate Toolkit for 2026",
+    "snippet": "Dec 26, 2025 — Transcending the role of a typical AI coding assistant, Manus functions as a general-purpose autonomous AI agent engineered to manage complex, ...",
+    "host_name": "manus.im",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.zenml.io/llmops-database/building-an-ai-agent-platform-with-cloud-based-virtual-machines-and-extended-context",
+    "name": "Manus: Building an AI Agent Platform with Cloud-Based Virtual Machines and Extended Context - ZenML LLMOps Database",
+    "snippet": "The company built a system where each user task is assigned a fully functional cloud-based virtual machine (Linux, with plans for Windows and Android) running ...",
+    "host_name": "www.zenml.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gist.github.com/renschni/4fbc70b31bad8dd57f3370239dccd58f",
+    "name": "In-depth technical investigation into the Manus AI agent, focusing on its architecture, tool orchestration, and autonomous capabilities.",
+    "snippet": "Manus is an autonomous AI agent built as a wrapper around foundation models (primarily Claude 3.5/3.7 and Alibaba's Qwen). It operates in a cloud-based ...",
+    "host_name": "gist.github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opencv.org/manus-ai",
+    "name": "Manus AI: Revolutionizing Autonomy in Artificial Intelligence",
+    "snippet": "Mar 18, 2025 — 1. What is Manus AI? Manus AI is a sophisticated autonomous agent designed to bridge the gap between human intent and execution. Unlike ...",
+    "host_name": "opencv.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2505.02024v1",
+    "name": "From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent",
+    "snippet": "May 4, 2025 — Manus AI is a general-purpose AI agent introduced in early 2025 as a breakthrough in autonomous artificial intelligence.\nThis paper provides a comprehensive overview of Manus AI, examining its underlying technical architecture, its wide-ranging applications across industries (including healthcare, finance, manufacturing, robotics, gaming, and more), as well as its advantages, limitations, and future prospects.",
+    "host_name": "arxiv.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nocodestartup.io/en/manus-agents-would-see-how-the-chinese-platform-works-2/?conversion=isca-dify",
+    "name": "Manus AI Agents: See How the Chinese Platform Works",
+    "snippet": "Jul 22, 2025 — Discover what Manus IA Agents is and see how this Chinese platform creates apps, games and complete reports automatically!",
+    "host_name": "nocodestartup.io",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://manus.org/agent",
+    "name": "AI Agent - Manus",
+    "snippet": "Manus AI is an advanced autonomous AI agent that performs complex tasks with minimal human input. From data analysis and stock insights to content creation and web development, Manus operates asynchronously in the cloud, ensuring seamless automation and efficiency.",
+    "host_name": "manus.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://manusagent.im",
+    "name": "Manus Agent - World's First Fully Autonomous AI Agent",
+    "snippet": "Manus AI is a revolutionary AI product launched in March 2025 by the Chinese startup Monica. Unlike traditional AI systems, Manus AI has unparalleled autonomy, capable of planning and executing complex tasks, turning human intent into actual results, rather than just providing suggestions.",
+    "host_name": "manusagent.im",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

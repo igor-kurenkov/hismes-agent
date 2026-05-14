@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://flowiseai.com",
+    "name": "Flowise - Build AI Agents, Visually",
+    "snippet": "Iterate, fast. Flowise provides modular building blocks for you to build any agentic systems, from simple compositional workflows to autonomous agents.",
+    "host_name": "flowiseai.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DTi0jeXaaUis",
+    "name": "Langflow vs Flowise – Free Open Source AI Tools - YouTube",
+    "snippet": "Subscribe for weekly deep dives into open-source AI tools and Agent builders. Have you built with Langflow or Flowise? Share your ... Missing: code | Show results with: code",
+    "host_name": "www.youtube.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ifbuj3/best_ai_agent_stack_for_nolowcode_development_of",
+    "name": "Best AI Agent stack for no/low-code development of niche AI  - Reddit",
+    "snippet": "OpenAI's GPTs - Fastest no-code option for custom chatbots with knowledge base integration and API actions. Flowise/LangFlow - Low-code visual ... OPENROUTER API IN LANGFLOW AI Agent Builder Bootcamp: Flowise, LangFlow, RAG & more! More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.langflow.org/blog/the-complete-guide-to-choosing-an-ai-agent-framework-in-2025",
+    "name": "The Complete Guide to Choosing an AI Agent Framework in 2025",
+    "snippet": "Langflow is typically the most beginner-friendly due to its visual interface. You can drag and drop components without writing code, making it ...",
+    "host_name": "www.langflow.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://florinelchis.medium.com/the-most-starred-open-source-no-code-ai-tools-on-github-882813bf64e1",
+    "name": "The Most Starred Open-Source No-Code AI Tools on GitHub",
+    "snippet": "A desktop and Docker application with built-in RAG, AI agents, and a no-code agent builder (Agent Flows). Key features: full MCP ...",
+    "host_name": "florinelchis.medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://htdocs.dev/posts/top-7-open-source-ai-lowno-code-tools-in-2026-a-comprehensive-analysis-of-leading-platforms",
+    "name": "Top 7 Open-Source AI Low/No-Code Tools in 2026 - htdocs",
+    "snippet": "An updated analysis of 7 open-source platforms redefining AI implementation in 2026: Activepieces, Dify, Langflow, n8n, Flowise, Botpress, ...",
+    "host_name": "htdocs.dev",
+    "rank": 5,
+    "date": "Mar 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://cygnis.co/blog/top-ai-agent-builder-platforms-in-2025",
+    "name": "Best AI Agent Builder Platforms in 2025 — Visual, No-Code AI Tools",
+    "snippet": "This guide compares top platforms like Opal, AgentKit, LangFlow, Flowise ... LangFlow — Developer-First, Open-Source Visual Agent Framework.",
+    "host_name": "cygnis.co",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://agence-scroll.com/en/blog/flowise-the-tool-to-create-ai-agents-without-coding",
+    "name": "Flowise: The Open Source Tool for Creating AI Agents - l'agence Scroll",
+    "snippet": "Stop coding your AI agents. Meet Flowise, the open source visual tool for creating powerful LLM workflows. Complete guide, installation and reviews.",
+    "host_name": "agence-scroll.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://smythos.com/developers/agent-comparisons/flowiseai-vs-langflow",
+    "name": "FlowiseAI vs. Langflow: Compare top AI agent builders - SmythOS",
+    "snippet": "FlowiseAI empowers developers to create and manage sophisticated AI agents through an intuitive, low-code platform. This open-source tool simplifies the process ...",
+    "host_name": "smythos.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.windkube.com/self-hosted-open-source-ai-platforms",
+    "name": "Self-hosted open-source AI platforms (& tools) - WindKube",
+    "snippet": "It's Python-based and agnostic to any model, API, or database. Langflow is a low-code app builder for RAG and multi-agent AI applications. It's Python-based and ...",
+    "host_name": "blog.windkube.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

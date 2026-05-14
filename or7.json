@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://cline.bot",
+    "name": "Cline - AI Coding, Open Source and Uncompromised",
+    "snippet": "Open-source AI coding agent with Plan/Act modes, MCP integration, and terminal-first workflows. Trusted by 5M+ developers worldwide.",
+    "host_name": "cline.bot",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/cline/cline",
+    "name": "cline/cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "snippet": "Cline can even use the Model Context Protocol (MCP) to create new tools and extend his own capabilities. While autonomous AI scripts traditionally run in ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.deployhq.com/guides/cline",
+    "name": "Cline VS Code Guide: AI Agent Setup & Deployment - DeployHQ",
+    "snippet": "Learn how to install and use Cline, the open-source AI coding agent for VS Code. Plan and Act modes, MCP support, any LLM provider, ...",
+    "host_name": "www.deployhq.com",
+    "rank": 2,
+    "date": "Feb 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/yevgen-reztsov-5646346b_github-clinecline-autonomous-coding-agent-activity-7311359466963156992-5Yr0",
+    "name": "How to use VS Code with Cline and MCP servers - LinkedIn",
+    "snippet": "The critical piece is to equip your MCP server with the tools to run and test the application Cline is working on as well as deploy it to an ...",
+    "host_name": "www.linkedin.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://code.visualstudio.com/blogs/2025/04/07/agentMode",
+    "name": "Agent mode: available to all users and supports MCP - Visual Studio Code",
+    "snippet": "The agent acts as an autonomous pair programmer that performs multi-step coding ... The agent integrates with MCP servers and VS Code extensions.",
+    "host_name": "code.visualstudio.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@elio.verhoef/cline-mcp-vs-codes-ai-assistant-gets-agentic-superpowers-3008aefba178",
+    "name": "Cline + MCP: VS Code's AI Assistant Gets Agentic Superpowers | by Elio Verhoef - Medium",
+    "snippet": "With Cline's latest Model Context Protocol (MCP) integration, your AI assistant can now investigate issues, deploy fixes, and manage your entire development ...",
+    "host_name": "medium.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cline.bot/enterprise",
+    "name": "Cline Enterprise - AI Coding Agent for Teams",
+    "snippet": "It includes an autonomous agent called Vibe Codey that integrates with a company's existing Salesforce org, re-uses code and coding standards, and helps move ...",
+    "host_name": "cline.bot",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.dash0.com/hub/integrations/int_cline/overview",
+    "name": "Cline Integration - Dash0",
+    "snippet": "Open the Cline extension from the VS Code sidebar. Click on the icon for MCP Servers , then click on > Installed > Configure MCP Servers . Configure MCP Servers.",
+    "host_name": "www.dash0.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cline.bot/blog/supercharge-your-cline-workflow-7-essential-mcp-servers",
+    "name": "Supercharge Your Cline Workflow: 7 Essential MCP Servers",
+    "snippet": "We're highlighting 7 essential MCP servers that can significantly enhance your Cline workflow, turning it from a powerful coding agent into a truly versatile ...",
+    "host_name": "cline.bot",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://scrapfly.io/docs/mcp/integrations/cline",
+    "name": "Scrapfly MCP Integration for Cline VS Code Extension | Setup Guide",
+    "snippet": "Integrate Scrapfly web scraping with Cline VS Code extension. Enable autonomous AI coding with web data extraction capabilities. OAuth2 setup in 5 minutes.",
+    "host_name": "scrapfly.io",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

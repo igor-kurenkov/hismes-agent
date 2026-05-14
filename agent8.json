@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.librechat.ai",
+    "name": "LibreChat - The Open-Source AI Platform",
+    "snippet": "Star on GitHub 35.1k. The Open-Source AI Platform. LibreChat brings together all your AI conversations in one unified, customizable interface. Missing: OpenRouter deployment",
+    "host_name": "www.librechat.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/%40airabbitX/beyond-chatgpt-exploring-the-power-of-open-source-ai-with-open-webui-and-librechat-ce0824226f0e",
+    "name": "Beyond ChatGPT: Exploring the Power of Open-Source AI with",
+    "snippet": "Open WebUI seems geared towards users wanting a polished, easy-to-deploy (especially with Ollama, potentially offline) interface with built-in ...",
+    "host_name": "medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/openrouter",
+    "name": "OpenRouter - LibreChat",
+    "snippet": "OpenRouter provides access to hundreds of AI models through a single API. This guide walks you through setting up OpenRouter as a custom endpoint in LibreChat ... Missing: WebUI free platform",
+    "host_name": "www.librechat.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.requesty.ai/blog/openwebui-vs-librechat-which-self-hosted-chatgpt-ui-is-right-for-you",
+    "name": "OpenWebUI vs. LibreChat: Which Self-Hosted ChatGPT UI Is Right",
+    "snippet": "Both OpenWebUI and LibreChat support hooking up to any API that's OpenAI-compatible (including OpenRouter or custom endpoints). But if you'd ...",
+    "host_name": "www.requesty.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/danny-avila/librechat",
+    "name": "GitHub - danny-avila/LibreChat",
+    "snippet": "LibreChat is a self-hosted AI chat platform that unifies all major AI providers in a single, privacy-focused interface. Beyond chat, LibreChat provides AI ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/works-with-openrouter/librechat",
+    "name": "LibreChat with OpenRouter",
+    "snippet": "Use LibreChat with OpenRouter to access hundreds of AI models. An open-source chat application for all your AI conversations, compatible with any AI provider. Missing: WebUI free platform",
+    "host_name": "openrouter.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/anmolbaranwal/11-best-ai-chat-tools-for-developers-in-2024-4gpl",
+    "name": "11 Best AI Chat Tools for Developers in 2024 - DEV Community",
+    "snippet": "Open WebUI - most loved AI Interface (Supports Ollama, OpenAI API...), runs offline. Open WebUI is an awesome user-friendly self ...",
+    "host_name": "dev.to",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ibb0do/a_true_open_ai_solution_for_companies_teams",
+    "name": "A true open AI solution for companies / teams (Openrouter, Librechat",
+    "snippet": "I'm looking at deploying something for our company, ideally I'd like to use Open WebUI front end, but I'm having trouble deciding what route to ... Any free AI api's for LibreChat? : r/selfhosted - Reddit Is it just me or is Librechat a complete buggy mess? - Reddit More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openrouter.ai/works-with-openrouter",
+    "name": "Compatible Apps and Tools - OpenRouter",
+    "snippet": "LibreChat. An open-source chat application for all your AI conversations, compatible with any AI provider.",
+    "host_name": "openrouter.ai",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://portkey.ai/blog/librechat-vs-openwebui",
+    "name": "LibreChat vs Open WebUI: Choose the Right ChatGPT UI for Your",
+    "snippet": "Choose LibreChat when you need enterprise authentication flexibility and robust moderation for larger deployments. Opt for Open WebUI when ... Missing: free OpenRouter",
+    "host_name": "portkey.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

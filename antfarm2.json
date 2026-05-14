@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://skywork.ai/skypage/en/antfarm-openclaw-deterministic-ai-agent/2037094933417771008",
+    "name": "Antfarm OpenClaw: The Ultimate Guide to Deterministic AI Agent",
+    "snippet": "OpenClaw is a free, open-source autonomous AI agent platform that runs locally on your infrastructure. It connects large language models to real ...",
+    "host_name": "skywork.ai",
+    "rank": 0,
+    "date": "Mar 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://pub.towardsai.net/governing-the-ant-farm-a-governance-first-framework-for-multi-agent-software-delivery-29245fc14bd9",
+    "name": "A Governance-First Framework for Multi-Agent Software Delivery",
+    "snippet": "This is the problem that led me to build Venutian Antfarm, an open-source framework for structured multi-agent software delivery with ...",
+    "host_name": "pub.towardsai.net",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.firecrawl.dev/blog/best-open-source-agent-frameworks",
+    "name": "The Best Open Source Frameworks For Building AI Agents in 2026",
+    "snippet": "The OpenAI Agents SDK is a lightweight Python framework released in March 2025 with over 19,000 GitHub stars and 10.3 million monthly downloads.",
+    "host_name": "www.firecrawl.dev",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gumloop.com/blog/ai-agent-frameworks",
+    "name": "6 best AI agent frameworks (and how I picked one) in 2026 - Gumloop",
+    "snippet": "Looking for the best AI agent frameworks? I've tested dozens of AI agent tools to find the best ones for both enterprise and personal use.",
+    "host_name": "www.gumloop.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vellum.ai/blog/top-ai-agent-frameworks-for-developers",
+    "name": "The Top 11 AI Agent Frameworks For Developers In September 2026",
+    "snippet": "A fast, practical guide to the best AI agent frameworks for developers building, orchestrating, and deploying AI agents in production.",
+    "host_name": "vellum.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/openclaw/openclaw",
+    "name": "OpenClaw — Personal AI Assistant - GitHub",
+    "snippet": "With ClawHub enabled, the agent can search for skills automatically and pull in new ones as needed. ClawHub. Chat commands. Send these in WhatsApp/Telegram/ ...",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://fast.io/resources/best-self-hosted-ai-agent-platforms",
+    "name": "8 Best Self-Hosted AI Agent Platforms for 2025 - Fast.io",
+    "snippet": "Compare the top self-hosted AI agent frameworks including LangChain, Flowise, and Dify. Deploy private, secure agents on your own infrastructure.",
+    "host_name": "fast.io",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://botpress.com/blog/ai-agent-frameworks",
+    "name": "Top 7 Free AI Agent Frameworks [2026] - Botpress",
+    "snippet": "CrewAI is an open-source framework for multi-agent systems, enabling AI agents to collaborate on tasks through defined roles and shared goals.",
+    "host_name": "botpress.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/maximilianmessing_i-put-an-ant-farm-inside-openclaw-it-built-activity-7429466436382887936-iDQ7",
+    "name": "Maximilian Messing's Post - LinkedIn",
+    "snippet": "Antfarm is an open-source agent orchestration layer that turns your AI assistant into a team. Planner, developer, verifier, tester, reviewer ...",
+    "host_name": "www.linkedin.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1hq9il6/best_ai_agent_frameworks_in_2025_a_comprehensive",
+    "name": "Best AI Agent Frameworks in 2025: A Comprehensive Guide - Reddit",
+    "snippet": "Here's a look at some of the standout frameworks making waves this year: Microsoft AutoGen, Phidata, PromptFlow, OpenAI Swarm, General Trends.",
+    "host_name": "www.reddit.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

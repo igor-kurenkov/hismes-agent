@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.architjn.com/blog/dify-cloud-pricing-plans-free-tier-when-to-self-host",
+    "name": "Dify Cloud Pricing: Plans, Free Tier, and When to Self-Host",
+    "snippet": "How do cloud and self-hosted costs compare? ... For small teams, cloud usually wins. A team of three on the Professional Plan pays $59/month ($708 ...",
+    "host_name": "www.architjn.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dify.ai/pricing",
+    "name": "Plans & Pricing - Dify",
+    "snippet": "For independent developers & small teams ready to build production AI applications. $590. $59. per workspace/month. Missing: 2025 | Show results with: 2025",
+    "host_name": "dify.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/langgenius/dify/discussions/32254",
+    "name": "Question About Differences Between Self-Hosted Plans (Community",
+    "snippet": "Note: The \"Premium\" tier you mentioned may refer to Dify Cloud pricing. For self-hosted, it's essentially Community (free) vs Enterprise (licensed). To reply, ... Looking for guide to self-host/deploy Dify on local server #8872 Self-Hosted Guide for Azure #4858 - langgenius dify - GitHub More results from github.com Missing: 2025 | Show results with: 2025",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://comparateur-ia.com/en/ai-tools/dify-ai",
+    "name": "Dify Review (2026): Pricing, Pros + Free Trial | Comparateur-IA",
+    "snippet": "Dify offers three pricing tiers for its cloud service. The Sandbox plan is free with 200 message credits, 5 applications, 1 member, and 30 days ... Missing: 2025 | Show results with: 2025",
+    "host_name": "comparateur-ia.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://nevacloud.com/blog/dify-ai",
+    "name": "Dify AI: Ulasan Fitur, Harga, Alternatif, dan Contoh Use Case (2025)",
+    "snippet": "Dify AI menyediakan skema harga yang fleksibel, menawarkan baik opsi Dify Cloud berbayar maupun instalasi mandiri (self-hosted) yang gratis. Missing: tier | Show results with: tier",
+    "host_name": "nevacloud.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://fast.io/resources/best-self-hosted-ai-agent-platforms",
+    "name": "8 Best Self-Hosted AI Agent Platforms for 2025 - Fast.io",
+    "snippet": "Compare the top self-hosted AI agent frameworks including LangChain, Flowise, and Dify. Deploy private, secure agents on your own infrastructure.",
+    "host_name": "fast.io",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aixsociety.com/comparing-dify-ai-and-leading-low%25E2%2580%2591code-llmops-platforms",
+    "name": "Comparing Dify.ai and Leading Low‑Code LLMOps Platforms",
+    "snippet": "Free to use and self-host. Managed Cloud plans from ~$35/mo (Starter) to $65/mo (Pro), with enterprise “Contact us” for custom pricing.",
+    "host_name": "aixsociety.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://skywork.ai/blog/dify-review-buyers-guide-2025",
+    "name": "Dify (dify.ai) Review & Buyer's Guide: Open-Source LLM Tools 2025",
+    "snippet": "Read our hands-on 2025 review of Dify (dify.ai). Explore agent workflows, RAG, plugin marketplace, deployment options, and pricing vs. top LLM builders.",
+    "host_name": "skywork.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://crazyrouter.com/blog/dify-ai-platform-complete-guide-2026",
+    "name": "Dify AI Platform Complete Guide: Build LLM Apps Without Code in",
+    "snippet": "Self-hosting Dify is completely free with the open-source Community Edition: ... The main cost is your server ( 5 – 5– 5–50/month for a VPS) plus AI model API ...",
+    "host_name": "crazyrouter.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hafiqiqmal93.medium.com/self-hosting-an-ai-model-vs-paying-for-the-cloud-which-one-should-you-actually-pick-11b359b46fde",
+    "name": "Self-Hosting an AI Model vs Paying for the Cloud - Hafiq Iqmal",
+    "snippet": "This article covers what both options actually mean, why frontier models like Claude Opus and GPT-5 cannot be self-hosted at all, what running a ...",
+    "host_name": "hafiqiqmal93.medium.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

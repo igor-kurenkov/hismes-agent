@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://claude.com/pricing",
+    "name": "Plans & Pricing | Claude by Anthropic",
+    "snippet": "Choose the Claude plan that fits how you solve problems. Free, Pro, Max, Team, and Enterprise tiers, plus API pricing for developers. Missing: 2025 | Show results with: 2025",
+    "host_name": "claude.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://claude.com/product/claude-code",
+    "name": "Claude Code by Anthropic | AI Coding Agent, Terminal, IDE",
+    "snippet": "$17. Per month with annual subscription discount ($200 billed up front). $20 if billed monthly. ; Max 5x · $100. Per person billed monthly ; Max 20x · $200.",
+    "host_name": "claude.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.claudelog.com/claude-code-pricing",
+    "name": "Claude Code Pricing | ClaudeLog",
+    "snippet": "Rating 5,0 (10.000) Claude AI price breakdown: Pro from $17/month vs Max from $100/month plans, API costs, usage limits. Complete pricing guide for developers.",
+    "host_name": "www.claudelog.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs",
+    "name": "Claude Pricing Explained: Subscription Plans & API Costs - IntuitionLabs.ai",
+    "snippet": "Claude Opus 4.6 is available at $5 per million input tokens and $25 per million output tokens. Claude Sonnet 4.6 sits at $3 input / $15 output per MTok, while ...",
+    "host_name": "intuitionlabs.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://claude.ai",
+    "name": "Claude",
+    "snippet": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+    "host_name": "claude.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://agenticoding.ai/developer-tools/cli-coding-agents",
+    "name": "CLI Coding Agents",
+    "snippet": "Free tier severely restricted (December 2025)—API limits reduced to near-zero for 2.5 Pro. Privacy considerations—Google's terms allow data collection ( ...",
+    "host_name": "agenticoding.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.builder.io/blog/cursor-vs-claude-code",
+    "name": "Claude Code vs Cursor: What to Choose in 2026 - Builder.io",
+    "snippet": "A: Claude Code requires at minimum a Claude Pro subscription at $20/month. Cursor offers a free Hobby tier with limited agent requests and ...",
+    "host_name": "www.builder.io",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@aftab001x/claude-code-vs-antigravity-vs-cursor-the-ai-coding-assistant-showdown-of-2025-0d6483c16bcc",
+    "name": "Claude Code vs Antigravity vs Cursor: The AI Coding Assistant Showdown of 2025 | by Aftab",
+    "snippet": "The Price Tag Reality. Claude Code: $20–$200/month (usage-based) Cursor: Free tier available; $20–$200/month (flat tiers with ...",
+    "host_name": "medium.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.morphllm.com/comparisons/morph-vs-claude-search-replace",
+    "name": "10 Best Claude Code Alternatives in 2026 - Morph",
+    "snippet": "Claude Code's $20 Pro tier gives most developers 10-20 meaningful coding sessions per week. By Wednesday, you are rationing. The $100 Max tier ...",
+    "host_name": "www.morphllm.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zoer.ai/posts/zoer/claude-code-cli-vs-cursor-comparison",
+    "name": "Claude Code CLI vs Cursor: Which AI Coding Agent Wins in 2025? - Zoer.ai",
+    "snippet": "Pricing Models: Claude Code CLI operates on usage-based pricing ($85/month for Max 20x access), whereas Cursor offers subscription tiers ...",
+    "host_name": "zoer.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
