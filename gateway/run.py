@@ -6870,6 +6870,14 @@ class GatewayRunner:
                     )
                 message_text = f"{context_note}\n\n{message_text}"
 
+        # Fallback: document message type but no cached file (download failed)
+        if not event.media_urls and event.message_type == MessageType.DOCUMENT:
+            context_note = (
+                "[The user sent a document, but it could not be downloaded. "
+                "Please ask the user to send the file again, or try a smaller file size.]"
+            )
+            message_text = f"{context_note}\n\n{message_text}"
+
         # Handle video files - add path to message so agent can process them
         if event.media_urls and event.message_type == MessageType.VIDEO:
             from tools.credential_files import to_agent_visible_cache_path
@@ -6888,6 +6896,31 @@ class GatewayRunner:
                     f"You can process it with tools like ffmpeg if needed.]"
                 )
                 message_text = f"{context_note}\n\n{message_text}"
+
+        # Fallback: video message type but no cached file (download failed)
+        # Tell the agent the user tried to send a video but it couldn't be retrieved
+        if not event.media_urls and event.message_type == MessageType.VIDEO:
+            context_note = (
+                "[The user sent a video message, but it could not be downloaded. "
+                "Please ask the user to send the video again, or try a smaller file size.]"
+            )
+            message_text = f"{context_note}\n\n{message_text}"
+
+        # Fallback: photo message type but no cached file (download failed)
+        if not event.media_urls and event.message_type == MessageType.PHOTO:
+            context_note = (
+                "[The user sent a photo, but it could not be downloaded. "
+                "Please ask the user to send the image again.]"
+            )
+            message_text = f"{context_note}\n\n{message_text}"
+
+        # Fallback: audio/voice message type but no cached file (download failed)
+        if not event.media_urls and event.message_type in {MessageType.AUDIO, MessageType.VOICE}:
+            context_note = (
+                "[The user sent an audio/voice message, but it could not be downloaded. "
+                "Please ask the user to send it again.]"
+            )
+            message_text = f"{context_note}\n\n{message_text}"
 
         if getattr(event, "reply_to_text", None) and event.reply_to_message_id:
             # Always inject the reply-to pointer — even when the quoted text
